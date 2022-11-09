@@ -47695,3 +47695,938 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.11.09-16.22.46:796][208]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/BehaviorTree24F3441B4C25695333B5CFB69C9C269E.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/BehaviorTree.uasset'
 [2022.11.09-16.22.46:812][208]AssetCheck: New page: Asset Save: BehaviorTree
 [2022.11.09-16.22.46:812][208]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BehaviorTree.BehaviorTree
+[2022.11.09-16.23.39:842][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2022.11.09-16.23.39:845][864]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/MainLevel' took 0.078
+[2022.11.09-16.23.39:845][864]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/BehaviorTree] ([1] browsable assets)...
+[2022.11.09-16.23.39:845][864]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/BehaviorTree]
+[2022.11.09-16.23.39:845][864]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BehaviorTree" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/AI/BehaviorTree_Auto9.uasset" SILENT=false AUTOSAVING=true
+[2022.11.09-16.23.39:853][864]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/BehaviorTree_Auto9
+[2022.11.09-16.23.39:853][864]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/BehaviorTree_Auto9D387E1CC45999E990862BF82946DDE3B.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/AI/BehaviorTree_Auto9.uasset'
+[2022.11.09-16.23.39:854][864]LogFileHelpers: Auto-saving content packages took 0.009
+[2022.11.09-16.25.38:797][220]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.11.09-16.25.38:797][220]LogWindowsTextInputMethodSystem: Activated input method: Русский (Россия) - (Keyboard).
+[2022.11.09-16.27.19:952][997]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.11.09-16.27.19:952][997]LogWindowsTextInputMethodSystem: Activated input method: Английский (США) - (Keyboard).
+[2022.11.09-16.27.48:261][185]LogContentBrowser: Attempting asset rename: MainLevel -> MainLevel
+[2022.11.09-16.27.50:421][433]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.27.50:633][433]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.09-16.27.51:227][474]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset" SILENT=true
+[2022.11.09-16.27.51:289][474]LogSavePackage: Moving output files for package: /Game/Widgets/MainUI
+[2022.11.09-16.27.51:290][474]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUI18DD921E4F0626DB33A3C689345A064C.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset'
+[2022.11.09-16.27.51:307][474]AssetCheck: New page: Asset Save: MainUI
+[2022.11.09-16.27.51:307][474]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/MainUI.MainUI
+[2022.11.09-16.28.43:098][ 23]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.28.43:236][ 23]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.09-16.28.44:096][ 64]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset" SILENT=true
+[2022.11.09-16.28.44:158][ 64]LogSavePackage: Moving output files for package: /Game/Widgets/MainUI
+[2022.11.09-16.28.44:159][ 64]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUI0490BD0243F8478375134B9C3C76DD64.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset'
+[2022.11.09-16.28.44:177][ 64]AssetCheck: New page: Asset Save: MainUI
+[2022.11.09-16.28.44:177][ 64]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/MainUI.MainUI
+[2022.11.09-16.28.45:843][256]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.28.45:856][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.28.45:856][256]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:28:45)
+[2022.11.09-16.28.45:856][256]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.28.45:866][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010396s)
+[2022.11.09-16.28.45:866][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.010479s)
+[2022.11.09-16.28.45:866][256]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.28.45:866][256]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.28.45:867][256]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.28.45:867][256]LogPlayLevel: PIE: World Init took: (0.000832s)
+[2022.11.09-16.28.45:948][256]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.11.09-16.28.45:955][256]LogAudio: Display: Creating Audio Device:                 Id: 53, Scope: Unique, Realtime: True
+[2022.11.09-16.28.45:955][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.28.45:955][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.28.45:955][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.28.45:955][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.28.45:955][256]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.28.45:955][256]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.28.45:955][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.28.45:955][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.28.45:955][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.28.45:955][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.28.45:955][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.28.46:119][256]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.28.46:143][256]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.28.46:144][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.28.46:144][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.28.46:144][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.28.46:145][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=53
+[2022.11.09-16.28.46:145][256]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=53
+[2022.11.09-16.28.46:147][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=53
+[2022.11.09-16.28.46:147][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=53
+[2022.11.09-16.28.46:147][256]LogInit: FAudioDevice initialized.
+[2022.11.09-16.28.46:147][256]LogAudio: Display: Audio Device (ID: 53) registered with world 'MainLevel'.
+[2022.11.09-16.28.46:209][256]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.28.46:209][256]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.28.46:210][256]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.28.46
+[2022.11.09-16.28.46:211][256]LogWorld: Bringing up level for play took: 0.001196
+[2022.11.09-16.28.46:214][256]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2022.11.09-16.28.46:219][256]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2022.11.09-16.28.46:219][256]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.28.46:222][256]PIE: Server logged in
+[2022.11.09-16.28.46:223][256]PIE: Play in editor total start time 0,37 seconds.
+[2022.11.09-16.28.46:235][256]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.28.49:095][474]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.28.50:467][593]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.28.50:477][594]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.28.50:478][594]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.28.50:478][594]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.28.53:116][833]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.28.53:117][833]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.28.53:117][833]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.28.57:265][196]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.28.58:620][316]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.28.58:630][317]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.28.58:630][317]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.28.58:630][317]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.29.00:361][476]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.29.00:361][476]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.29.00:361][476]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.29.05:297][907]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.29.08:814][213]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.29.08:825][214]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.29.08:825][214]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.29.08:825][214]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.29.10:249][343]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.29.10:249][343]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.29.10:249][343]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.29.12:875][567]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.29.16:006][833]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.29.19:922][170]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.29.23:310][467]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.29.23:320][468]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.29.23:320][468]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.29.23:320][468]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.29.24:289][555]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.29.24:289][555]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.29.24:289][555]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.29.27:748][858]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.29.31:679][201]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.29.35:295][512]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.29.39:723][898]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.29.39:733][899]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.29.39:733][899]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.29.39:733][899]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.29.41:308][ 41]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.29.41:309][ 41]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.29.41:309][ 41]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.29.45:151][366]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.29.48:792][671]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.29.52:084][955]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.29.55:588][260]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.29.55:598][261]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.29.55:598][261]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.29.55:598][261]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.29.57:134][392]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.29.57:134][392]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.29.57:134][392]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.30.00:724][684]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.30.02:100][802]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.05:950][138]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.30.09:659][460]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.13:001][747]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.30.17:050][ 90]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.17:060][ 91]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.30.17:060][ 91]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.30.17:060][ 91]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.30.18:697][239]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.30.18:697][239]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.30.18:697][239]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.30.22:272][548]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.30.25:882][861]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.30:263][238]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.30.31:493][346]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.36:668][798]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.30.40:413][126]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.44:275][461]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.30.48:019][784]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.51:902][119]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.30.57:417][599]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.30.57:427][600]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.30.57:427][600]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.30.57:427][600]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.30.59:035][741]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.30.59:035][741]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.30.59:036][741]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.30.59:043][741]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.30.59:044][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.30.59:057][741]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.30.59:065][741]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.30.59:141][741]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-16.30.59:142][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2022.11.09-16.30.59:143][741]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=53
+[2022.11.09-16.30.59:150][741]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.11.09-16.30.59:175][742]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2022.11.09-16.31.53:825][ 36]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.31.53:939][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.09-16.31.55:393][158]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.31.55:405][158]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.31.55:405][158]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:31:55)
+[2022.11.09-16.31.55:405][158]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.31.55:411][158]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005457s)
+[2022.11.09-16.31.55:411][158]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.005537s)
+[2022.11.09-16.31.55:411][158]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.31.55:411][158]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.31.55:411][158]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.31.55:411][158]LogPlayLevel: PIE: World Init took: (0.000756s)
+[2022.11.09-16.31.55:493][158]LogUObjectHash: Compacting FUObjectHashTables data took   2.11ms
+[2022.11.09-16.31.55:500][158]LogAudio: Display: Creating Audio Device:                 Id: 54, Scope: Unique, Realtime: True
+[2022.11.09-16.31.55:500][158]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.31.55:500][158]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.31.55:500][158]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.31.55:500][158]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.31.55:500][158]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.31.55:500][158]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.31.55:500][158]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.31.55:500][158]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.31.55:500][158]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.31.55:500][158]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.31.55:500][158]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.31.55:502][158]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.31.55:523][158]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.31.55:524][158]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.31.55:524][158]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.31.55:524][158]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.31.55:525][158]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=54
+[2022.11.09-16.31.55:525][158]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=54
+[2022.11.09-16.31.55:527][158]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=54
+[2022.11.09-16.31.55:527][158]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=54
+[2022.11.09-16.31.55:527][158]LogInit: FAudioDevice initialized.
+[2022.11.09-16.31.55:527][158]LogAudio: Display: Audio Device (ID: 54) registered with world 'MainLevel'.
+[2022.11.09-16.31.55:583][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.31.55:583][158]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.31.55:584][158]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.31.55
+[2022.11.09-16.31.55:585][158]LogWorld: Bringing up level for play took: 0.001164
+[2022.11.09-16.31.55:587][158]LogOnline: OSS: Created online subsystem instance for: :Context_98
+[2022.11.09-16.31.55:605][158]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2022.11.09-16.31.55:605][158]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.31.55:607][158]PIE: Server logged in
+[2022.11.09-16.31.55:608][158]PIE: Play in editor total start time 0,206 seconds.
+[2022.11.09-16.31.55:618][158]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.31.58:329][376]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.32.01:890][690]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.32.01:900][691]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.32.01:900][691]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.32.01:900][691]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.32.04:205][899]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.32.04:205][899]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.32.04:205][899]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.32.07:365][175]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.32.11:181][505]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.32.11:191][506]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.32.11:191][506]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.32.11:191][506]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.32.12:980][663]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.32.12:980][663]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.32.12:980][663]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.32.16:270][951]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.32.21:183][365]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.32.23:734][593]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.32.23:734][593]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.32.23:736][593]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.32.23:743][593]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.32.23:744][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.32.23:756][593]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.32.23:764][593]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.32.23:837][593]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-16.32.23:838][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2022.11.09-16.32.23:839][593]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=54
+[2022.11.09-16.32.23:845][593]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.09-16.32.23:869][594]LogPlayLevel: Display: Destroying online subsystem :Context_98
+[2022.11.09-16.32.50:921][721]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.32.51:035][721]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2022.11.09-16.32.51:905][810]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.32.51:916][810]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.32.51:917][810]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:32:51)
+[2022.11.09-16.32.51:917][810]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.32.51:922][810]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005191s)
+[2022.11.09-16.32.51:922][810]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.005271s)
+[2022.11.09-16.32.51:922][810]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.32.51:922][810]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.32.51:922][810]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.32.51:923][810]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2022.11.09-16.32.51:998][810]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.09-16.32.52:004][810]LogAudio: Display: Creating Audio Device:                 Id: 55, Scope: Unique, Realtime: True
+[2022.11.09-16.32.52:004][810]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.32.52:004][810]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.32.52:004][810]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.32.52:004][810]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.32.52:004][810]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.32.52:004][810]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.32.52:004][810]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.32.52:004][810]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.32.52:004][810]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.32.52:004][810]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.32.52:004][810]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.32.52:006][810]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.32.52:027][810]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.32.52:027][810]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.32.52:027][810]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.32.52:027][810]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.32.52:028][810]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=55
+[2022.11.09-16.32.52:028][810]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=55
+[2022.11.09-16.32.52:030][810]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=55
+[2022.11.09-16.32.52:030][810]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=55
+[2022.11.09-16.32.52:030][810]LogInit: FAudioDevice initialized.
+[2022.11.09-16.32.52:030][810]LogAudio: Display: Audio Device (ID: 55) registered with world 'MainLevel'.
+[2022.11.09-16.32.52:070][810]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.32.52:070][810]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.32.52:071][810]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.32.52
+[2022.11.09-16.32.52:071][810]LogWorld: Bringing up level for play took: 0.001171
+[2022.11.09-16.32.52:073][810]LogOnline: OSS: Created online subsystem instance for: :Context_99
+[2022.11.09-16.32.52:078][810]LogBlueprintUserMessages: [MainUI_C_0] 100
+[2022.11.09-16.32.52:078][810]LogScript: Warning: Script Msg: Divide by zero: Divide_IntInt
+[2022.11.09-16.32.52:078][810]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.32.52:081][810]PIE: Server logged in
+[2022.11.09-16.32.52:082][810]PIE: Play in editor total start time 0,168 seconds.
+[2022.11.09-16.32.52:092][810]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.32.56:115][149]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.33.00:922][560]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.33.00:922][560]LogBlueprintUserMessages: [MainUI_C_0] 0
+[2022.11.09-16.33.00:932][561]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.33.00:932][561]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.33.00:932][561]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.33.02:654][715]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.33.02:654][715]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.33.02:654][715]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.33.02:654][715]LogBlueprintUserMessages: [MainUI_C_0] 100
+[2022.11.09-16.33.06:086][  7]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.33.09:990][346]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.33.09:990][346]LogBlueprintUserMessages: [MainUI_C_0] 0
+[2022.11.09-16.33.10:001][347]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.33.10:001][347]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.33.10:001][347]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.33.11:545][480]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.33.11:545][480]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.33.11:545][480]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.33.11:545][480]LogBlueprintUserMessages: [MainUI_C_0] 100
+[2022.11.09-16.33.14:058][694]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.33.17:745][ 13]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.33.17:745][ 13]LogBlueprintUserMessages: [MainUI_C_0] 0
+[2022.11.09-16.33.20:276][239]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.33.20:276][239]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.33.20:277][239]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.33.20:284][239]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.33.20:284][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.33.20:296][239]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.33.20:303][239]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.33.20:376][239]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-16.33.20:376][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2022.11.09-16.33.20:378][239]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=55
+[2022.11.09-16.33.20:384][239]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2022.11.09-16.33.20:426][240]LogPlayLevel: Display: Destroying online subsystem :Context_99
+[2022.11.09-16.33.39:027][481]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.11.09-16.33.41:925][763]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.33.41:930][763]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.33.47:028][210]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.11.09-16.33.49:367][476]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.33.49:373][476]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.33.53:247][772]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.11.09-16.33.55:417][ 12]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.33.55:423][ 12]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.33.59:266][304]LogSlate: Window 'Change Variable Type' being destroyed
+[2022.11.09-16.34.03:742][818]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.34.03:749][818]LogSlate: Window 'Find in Blueprints' being destroyed
+[2022.11.09-16.34.07:201][213]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.34.07:226][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:226][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:227][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set MaxHP_Player . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:233][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:233][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:233][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:233][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:234][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int + int '
+[2022.11.09-16.34.07:234][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:234][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:235][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:235][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:235][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:235][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:235][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:236][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.34.07:236][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:236][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:236][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:236][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:237][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.34.07:237][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:237][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:237][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:237][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:242][213]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.34.07:457][213]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2022.11.09-16.34.40:321][675]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.34.40:679][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  int / int
+[2022.11.09-16.34.40:679][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  int / int
+[2022.11.09-16.34.40:680][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Current  and  Value : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:680][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Max  and  Value : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:680][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Value  and  Current : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:680][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Value  and  Max : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:681][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  int / int
+[2022.11.09-16.34.40:681][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  int / int
+[2022.11.09-16.34.40:682][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Current  and  Value : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:682][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Max  and  Value : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:682][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Value  and  Current : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:682][675]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Value  and  Max : Convert Float (double-precision) to Integer
+[2022.11.09-16.34.40:784][675]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2022.11.09-16.35.08:488][766]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.35.08:503][766]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  int / int
+[2022.11.09-16.35.08:503][766]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  int / int
+[2022.11.09-16.35.08:503][766]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Current  and  Value : Convert Float (double-precision) to Integer
+[2022.11.09-16.35.08:503][766]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Max  and  Value : Convert Float (double-precision) to Integer
+[2022.11.09-16.35.08:504][766]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Value  and  Current : Convert Float (double-precision) to Integer
+[2022.11.09-16.35.08:504][766]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\Widgets\MainUI.uasset: [Compiler] Can't connect pins  Value  and  Max : Convert Float (double-precision) to Integer
+[2022.11.09-16.35.08:605][766]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2022.11.09-16.35.09:618][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset" SILENT=true
+[2022.11.09-16.35.09:682][828]LogSavePackage: Moving output files for package: /Game/Widgets/MainUI
+[2022.11.09-16.35.09:682][828]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUI6C501FA641D003771DD11785A82ECF18.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset'
+[2022.11.09-16.35.09:703][828]AssetCheck: New page: Asset Save: MainUI
+[2022.11.09-16.35.09:703][828]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/MainUI.MainUI
+[2022.11.09-16.35.31:677][169]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.35.31:817][169]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.09-16.35.32:336][209]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset" SILENT=true
+[2022.11.09-16.35.32:399][209]LogSavePackage: Moving output files for package: /Game/Widgets/MainUI
+[2022.11.09-16.35.32:399][209]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUI3F09880042DA882AEFBD13883F30F6B0.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset'
+[2022.11.09-16.35.32:417][209]AssetCheck: New page: Asset Save: MainUI
+[2022.11.09-16.35.32:417][209]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/MainUI.MainUI
+[2022.11.09-16.35.35:181][494]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.35.35:316][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.09-16.35.53:447][318]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.35.53:475][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:475][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:475][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:476][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:477][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int + int '
+[2022.11.09-16.35.53:477][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:477][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:477][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:477][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:477][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:478][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:478][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:478][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.35.53:478][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:479][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:479][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:479][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:480][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.35.53:480][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:480][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:480][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:480][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:485][318]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.35.53:609][318]LogUObjectHash: Compacting FUObjectHashTables data took   1.77ms
+[2022.11.09-16.35.54:564][349]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset" SILENT=true
+[2022.11.09-16.35.54:650][349]LogSavePackage: Moving output files for package: /Game/MainGameMode
+[2022.11.09-16.35.54:651][349]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainGameMode5D1A718D4C70191D923D8B92506A0FFD.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset'
+[2022.11.09-16.35.54:670][349]AssetCheck: New page: Asset Save: MainGameMode
+[2022.11.09-16.35.54:670][349]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2022.11.09-16.36.24:857][582]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Actors/Structure_Gods.Structure_Gods
+[2022.11.09-16.36.29:153][952]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/Structure_Gods" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Actors/Structure_Gods.uasset" SILENT=true
+[2022.11.09-16.36.29:156][952]LogSavePackage: Moving output files for package: /Game/Actors/Structure_Gods
+[2022.11.09-16.36.29:157][952]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Structure_Gods22F74A164E569623EF86BDB8FC650025.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Actors/Structure_Gods.uasset'
+[2022.11.09-16.36.29:174][952]AssetCheck: New page: Asset Save: Structure_Gods
+[2022.11.09-16.36.29:174][952]LogContentValidation: Display: Validating UserDefinedStruct /Game/Actors/Structure_Gods.Structure_Gods
+[2022.11.09-16.36.29:815][ 18]LogSlate: Window 'Structure_Gods' being destroyed
+[2022.11.09-16.36.31:807][227]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Actors/DT_Gods.DT_Gods
+[2022.11.09-16.36.34:967][588]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/DT_Gods" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Actors/DT_Gods.uasset" SILENT=true
+[2022.11.09-16.36.34:971][588]LogSavePackage: Moving output files for package: /Game/Actors/DT_Gods
+[2022.11.09-16.36.34:971][588]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/DT_Gods3828CC8B4F73480AA8AD1A80CD2EC0F7.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Actors/DT_Gods.uasset'
+[2022.11.09-16.36.34:988][588]AssetCheck: New page: Asset Save: DT_Gods
+[2022.11.09-16.36.34:988][588]LogContentValidation: Display: Validating DataTable /Game/Actors/DT_Gods.DT_Gods
+[2022.11.09-16.36.38:716][995]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.36.38:755][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Out Row Max HP  no longer exists on node  Get Data Table Row DT_Gods . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:757][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int + int '
+[2022.11.09-16.36.38:757][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:757][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:757][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:757][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:758][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:758][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:758][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:758][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.36.38:759][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:759][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:759][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:759][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:760][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.36.38:760][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:760][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:760][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:760][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:765][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  New God Row Max HP  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:765][995]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.36.38:895][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.11.09-16.37.05:712][975]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.37.05:849][975]LogUObjectHash: Compacting FUObjectHashTables data took   3.86ms
+[2022.11.09-16.37.07:024][ 49]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset" SILENT=true
+[2022.11.09-16.37.07:095][ 49]LogSavePackage: Moving output files for package: /Game/Widgets/MainUI
+[2022.11.09-16.37.07:096][ 49]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUI74734D274810042D7F1F228157BB5BD6.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset'
+[2022.11.09-16.37.07:113][ 49]AssetCheck: New page: Asset Save: MainUI
+[2022.11.09-16.37.07:113][ 49]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/MainUI.MainUI
+[2022.11.09-16.37.09:488][313]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.37.09:517][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int + int '
+[2022.11.09-16.37.09:518][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:518][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  <Unnamed>  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:518][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:518][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:518][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:518][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:518][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:519][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.37.09:519][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:519][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:519][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:519][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:520][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.37.09:520][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:520][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:521][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:521][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:525][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  New God Row Max HP  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:526][313]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.37.09:659][313]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2022.11.09-16.38.00:498][855]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.38.00:528][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] COMPILER ERROR: failed building connection with 'Convert Float (double-precision) to Integer' at  float + float
+[2022.11.09-16.38.00:528][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Float (double-precision)' on ' float + float '
+[2022.11.09-16.38.00:529][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.38.00:530][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:530][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:530][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:530][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:531][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.38.00:531][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:531][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:531][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:532][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:536][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  New God Row Max HP  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:536][855]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.00:667][855]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.09-16.38.17:358][622]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.38.17:388][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.38.17:388][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:388][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:388][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:388][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:389][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.38.17:389][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:389][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:390][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:390][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:394][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  New God Row Max HP  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:394][622]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.17:520][622]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.09-16.38.39:700][973]LogDerivedDataCache: C:/Users/polya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.829 and deleted 0 file(s) with total size 0 MiB.
+[2022.11.09-16.38.42:473][265]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.38.42:504][265]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] Output pin type 'Integer' is not compatible with input type of 'Integer' on ' int - int '
+[2022.11.09-16.38.42:504][265]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.42:504][265]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.42:504][265]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Max HP God  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.42:504][265]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP God  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.42:509][265]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  New God Row Max HP  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.42:509][265]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.42:633][265]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.11.09-16.38.43:641][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset" SILENT=true
+[2022.11.09-16.38.43:727][354]LogSavePackage: Moving output files for package: /Game/MainGameMode
+[2022.11.09-16.38.43:728][354]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainGameModeF8F5EDE84311A114649B68BFBA550C88.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset'
+[2022.11.09-16.38.43:747][354]AssetCheck: New page: Asset Save: MainGameMode
+[2022.11.09-16.38.43:747][354]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2022.11.09-16.38.56:308][668]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.38.56:343][668]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  New God Row Max HP  no longer exists on node  Set . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.56:343][668]LogBlueprint: Error: [AssetLog] E:\GAME_PROJECTS_ue\WhoIsTheGod\Content\MainGameMode.uasset: [Compiler] In use pin  Current HP Player  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.11.09-16.38.56:469][668]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.09-16.38.56:991][711]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset" SILENT=true
+[2022.11.09-16.38.57:078][711]LogSavePackage: Moving output files for package: /Game/MainGameMode
+[2022.11.09-16.38.57:078][711]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainGameMode65431B7446B95A8C86E2C4A074532832.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset'
+[2022.11.09-16.38.57:096][711]AssetCheck: New page: Asset Save: MainGameMode
+[2022.11.09-16.38.57:096][711]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2022.11.09-16.39.02:712][289]BlueprintLog: New page: Compile MainGameMode
+[2022.11.09-16.39.02:882][289]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2022.11.09-16.39.07:589][801]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.39.07:861][801]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.39.07:862][801]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:39:07)
+[2022.11.09-16.39.07:862][801]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.39.07:872][801]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010687s)
+[2022.11.09-16.39.07:872][801]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.010770s)
+[2022.11.09-16.39.07:873][801]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.39.07:873][801]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.39.07:873][801]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.39.07:873][801]LogPlayLevel: PIE: World Init took: (0.000820s)
+[2022.11.09-16.39.07:949][801]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.11.09-16.39.07:955][801]LogAudio: Display: Creating Audio Device:                 Id: 56, Scope: Unique, Realtime: True
+[2022.11.09-16.39.07:955][801]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.39.07:955][801]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.39.07:955][801]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.39.07:955][801]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.39.07:955][801]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.39.07:955][801]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.39.07:955][801]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.39.07:955][801]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.39.07:955][801]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.39.07:955][801]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.39.07:955][801]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.39.07:987][801]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.39.08:010][801]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.39.08:010][801]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.39.08:010][801]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.39.08:010][801]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.39.08:011][801]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=56
+[2022.11.09-16.39.08:011][801]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=56
+[2022.11.09-16.39.08:013][801]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=56
+[2022.11.09-16.39.08:013][801]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=56
+[2022.11.09-16.39.08:013][801]LogInit: FAudioDevice initialized.
+[2022.11.09-16.39.08:013][801]LogAudio: Display: Audio Device (ID: 56) registered with world 'MainLevel'.
+[2022.11.09-16.39.08:059][801]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.39.08:060][801]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.39.08:061][801]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.39.08
+[2022.11.09-16.39.08:062][801]LogWorld: Bringing up level for play took: 0.001453
+[2022.11.09-16.39.08:064][801]LogOnline: OSS: Created online subsystem instance for: :Context_100
+[2022.11.09-16.39.08:085][801]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.39.08:093][801]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.11.09-16.39.08:093][801]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.39.08:096][801]PIE: Server logged in
+[2022.11.09-16.39.08:097][801]PIE: Play in editor total start time 0,239 seconds.
+[2022.11.09-16.39.08:098][801]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.39.08:098][801]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.39.08:098][801]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.39.08:113][801]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.39.11:348][ 44]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.39.11:348][ 44]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.39.11:349][ 44]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.39.11:356][ 44]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.39.11:357][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.39.11:366][ 44]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.39.11:375][ 44]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.39.11:450][ 44]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-16.39.11:451][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2022.11.09-16.39.11:452][ 44]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=56
+[2022.11.09-16.39.11:458][ 44]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.11.09-16.39.11:486][ 45]LogPlayLevel: Display: Destroying online subsystem :Context_100
+[2022.11.09-16.39.12:800][185]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.39.12:898][185]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.39.12:898][185]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:39:12)
+[2022.11.09-16.39.12:898][185]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.39.12:903][185]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005035s)
+[2022.11.09-16.39.12:903][185]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.005112s)
+[2022.11.09-16.39.12:903][185]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.39.12:903][185]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.39.12:904][185]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.39.12:904][185]LogPlayLevel: PIE: World Init took: (0.000728s)
+[2022.11.09-16.39.12:984][185]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2022.11.09-16.39.12:986][185]LogAudio: Display: Creating Audio Device:                 Id: 57, Scope: Unique, Realtime: True
+[2022.11.09-16.39.12:987][185]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.39.12:987][185]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.39.12:987][185]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.39.12:987][185]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.39.12:987][185]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.39.12:987][185]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.39.12:987][185]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.39.12:987][185]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.39.12:987][185]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.39.12:987][185]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.39.12:987][185]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.39.12:989][185]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.39.13:010][185]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.39.13:010][185]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.39.13:010][185]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.39.13:010][185]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.39.13:011][185]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=57
+[2022.11.09-16.39.13:011][185]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=57
+[2022.11.09-16.39.13:012][185]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=57
+[2022.11.09-16.39.13:012][185]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=57
+[2022.11.09-16.39.13:012][185]LogInit: FAudioDevice initialized.
+[2022.11.09-16.39.13:012][185]LogAudio: Display: Audio Device (ID: 57) registered with world 'MainLevel'.
+[2022.11.09-16.39.13:061][185]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.39.13:061][185]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.39.13:063][185]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.39.13
+[2022.11.09-16.39.13:063][185]LogWorld: Bringing up level for play took: 0.001653
+[2022.11.09-16.39.13:065][185]LogOnline: OSS: Created online subsystem instance for: :Context_101
+[2022.11.09-16.39.13:071][185]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.39.13:071][185]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.11.09-16.39.13:071][185]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.39.13:075][185]PIE: Server logged in
+[2022.11.09-16.39.13:077][185]PIE: Play in editor total start time 0,185 seconds.
+[2022.11.09-16.39.13:078][185]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.39.13:078][185]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.39.13:078][185]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.39.13:092][185]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.39.15:455][367]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.39.15:455][367]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.39.15:456][367]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.39.15:462][367]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.39.15:462][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.39.15:477][367]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.39.15:484][367]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.39.15:559][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2022.11.09-16.39.15:560][367]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=57
+[2022.11.09-16.39.15:567][367]LogUObjectHash: Compacting FUObjectHashTables data took   2.04ms
+[2022.11.09-16.39.15:595][368]LogPlayLevel: Display: Destroying online subsystem :Context_101
+[2022.11.09-16.39.32:810][348]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset" SILENT=true
+[2022.11.09-16.39.32:898][348]LogSavePackage: Moving output files for package: /Game/MainGameMode
+[2022.11.09-16.39.32:899][348]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainGameModeEF4F035C483BFD662C6E6B997E611E5D.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset'
+[2022.11.09-16.39.32:920][348]AssetCheck: New page: Asset Save: MainGameMode
+[2022.11.09-16.39.32:920][348]LogContentValidation: Display: Validating Blueprint /Game/MainGameMode.MainGameMode
+[2022.11.09-16.40.04:671][944]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.40.04:714][944]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.40.04:714][944]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:40:04)
+[2022.11.09-16.40.04:714][944]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.40.04:724][944]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009986s)
+[2022.11.09-16.40.04:724][944]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.010103s)
+[2022.11.09-16.40.04:724][944]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.40.04:724][944]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.40.04:725][944]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.40.04:725][944]LogPlayLevel: PIE: World Init took: (0.000822s)
+[2022.11.09-16.40.04:800][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.11.09-16.40.04:804][944]LogAudio: Display: Creating Audio Device:                 Id: 58, Scope: Unique, Realtime: True
+[2022.11.09-16.40.04:804][944]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.40.04:804][944]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.40.04:804][944]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.40.04:804][944]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.40.04:804][944]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.40.04:804][944]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.40.04:804][944]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.40.04:804][944]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.40.04:805][944]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.40.04:805][944]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.40.04:805][944]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.40.04:806][944]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.40.04:827][944]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.40.04:827][944]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.40.04:827][944]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.40.04:827][944]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.40.04:829][944]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=58
+[2022.11.09-16.40.04:829][944]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=58
+[2022.11.09-16.40.04:831][944]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=58
+[2022.11.09-16.40.04:831][944]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=58
+[2022.11.09-16.40.04:831][944]LogInit: FAudioDevice initialized.
+[2022.11.09-16.40.04:831][944]LogAudio: Display: Audio Device (ID: 58) registered with world 'MainLevel'.
+[2022.11.09-16.40.04:886][944]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.40.04:886][944]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.40.04:888][944]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.40.04
+[2022.11.09-16.40.04:889][944]LogWorld: Bringing up level for play took: 0.002132
+[2022.11.09-16.40.04:891][944]LogOnline: OSS: Created online subsystem instance for: :Context_102
+[2022.11.09-16.40.04:896][944]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.40.04:896][944]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.11.09-16.40.04:896][944]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.40.04:901][944]PIE: Server logged in
+[2022.11.09-16.40.04:905][944]PIE: Play in editor total start time 0,197 seconds.
+[2022.11.09-16.40.04:906][944]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.40.04:906][944]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.40.04:906][944]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.40.04:918][944]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.40.09:266][305]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.40.09:266][305]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.40.09:266][305]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.40.09:273][305]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.40.09:273][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.40.09:284][305]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.40.09:292][305]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.40.09:369][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2022.11.09-16.40.09:370][305]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=58
+[2022.11.09-16.40.09:376][305]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.11.09-16.40.09:401][306]LogPlayLevel: Display: Destroying online subsystem :Context_102
+[2022.11.09-16.40.12:578][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/BehaviorTree" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/BehaviorTree.uasset" SILENT=true
+[2022.11.09-16.40.12:588][660]LogSavePackage: Moving output files for package: /Game/AI/BehaviorTree
+[2022.11.09-16.40.12:588][660]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/BehaviorTree4580E67E4EB980318B1906BE648259B9.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/BehaviorTree.uasset'
+[2022.11.09-16.40.12:604][660]AssetCheck: New page: Asset Save: BehaviorTree
+[2022.11.09-16.40.12:604][660]LogContentValidation: Display: Validating BehaviorTree /Game/AI/BehaviorTree.BehaviorTree
+[2022.11.09-16.40.24:386][998]BlueprintLog: New page: Compile D_IsGodAlive
+[2022.11.09-16.40.24:494][998]LogUObjectHash: Compacting FUObjectHashTables data took   1.69ms
+[2022.11.09-16.40.24:947][ 40]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Decorators/D_IsGodAlive" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/Decorators/D_IsGodAlive.uasset" SILENT=true
+[2022.11.09-16.40.24:952][ 40]LogSavePackage: Moving output files for package: /Game/AI/Decorators/D_IsGodAlive
+[2022.11.09-16.40.24:953][ 40]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/D_IsGodAlive509A93A7477023D77600958B959A1537.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/Decorators/D_IsGodAlive.uasset'
+[2022.11.09-16.40.24:968][ 40]AssetCheck: New page: Asset Save: D_IsGodAlive
+[2022.11.09-16.40.24:968][ 40]LogContentValidation: Display: Validating Blueprint /Game/AI/Decorators/D_IsGodAlive.D_IsGodAlive
+[2022.11.09-16.40.25:806][136]LogWorld: UWorld::CleanupWorld for World_53, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.40.25:806][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.40.29:428][537]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Decorators/D_IsPlayerDefeated.D_IsPlayerDefeated
+[2022.11.09-16.40.29:428][537]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.40.34:806][ 75]BlueprintLog: New page: Compile D_IsPlayerDefeated
+[2022.11.09-16.40.34:914][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2022.11.09-16.40.35:365][112]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Decorators/D_IsPlayerDefeated" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/Decorators/D_IsPlayerDefeated.uasset" SILENT=true
+[2022.11.09-16.40.35:372][112]LogSavePackage: Moving output files for package: /Game/AI/Decorators/D_IsPlayerDefeated
+[2022.11.09-16.40.35:372][112]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/D_IsPlayerDefeated43BF216D475A9F8240D1358713D945EB.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/Decorators/D_IsPlayerDefeated.uasset'
+[2022.11.09-16.40.35:388][112]AssetCheck: New page: Asset Save: D_IsPlayerDefeated
+[2022.11.09-16.40.35:388][112]LogContentValidation: Display: Validating Blueprint /Game/AI/Decorators/D_IsPlayerDefeated.D_IsPlayerDefeated
+[2022.11.09-16.40.36:583][248]LogWorld: UWorld::CleanupWorld for World_66, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.40.36:583][248]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.40.38:865][481]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Decorators/D_IsPlayerNewGod.D_IsPlayerNewGod
+[2022.11.09-16.40.38:866][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.40.48:355][532]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.40.48:596][532]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.40.48:596][532]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:40:48)
+[2022.11.09-16.40.48:596][532]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.40.48:601][532]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005105s)
+[2022.11.09-16.40.48:601][532]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.005180s)
+[2022.11.09-16.40.48:601][532]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.40.48:601][532]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.40.48:602][532]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.40.48:602][532]LogPlayLevel: PIE: World Init took: (0.000747s)
+[2022.11.09-16.40.48:683][532]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.09-16.40.48:686][532]LogAudio: Display: Creating Audio Device:                 Id: 59, Scope: Unique, Realtime: True
+[2022.11.09-16.40.48:686][532]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.40.48:686][532]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.40.48:686][532]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.40.48:686][532]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.40.48:686][532]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.40.48:686][532]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.40.48:686][532]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.40.48:686][532]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.40.48:686][532]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.40.48:686][532]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.40.48:686][532]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.40.48:689][532]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.40.48:709][532]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.40.48:710][532]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.40.48:710][532]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.40.48:710][532]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.40.48:711][532]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=59
+[2022.11.09-16.40.48:711][532]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=59
+[2022.11.09-16.40.48:713][532]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=59
+[2022.11.09-16.40.48:713][532]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=59
+[2022.11.09-16.40.48:713][532]LogInit: FAudioDevice initialized.
+[2022.11.09-16.40.48:713][532]LogAudio: Display: Audio Device (ID: 59) registered with world 'MainLevel'.
+[2022.11.09-16.40.48:767][532]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.40.48:767][532]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.40.48:768][532]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.40.48
+[2022.11.09-16.40.48:768][532]LogWorld: Bringing up level for play took: 0.001273
+[2022.11.09-16.40.48:770][532]LogOnline: OSS: Created online subsystem instance for: :Context_105
+[2022.11.09-16.40.48:776][532]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.40.48:776][532]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.11.09-16.40.48:776][532]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.40.48:781][532]PIE: Server logged in
+[2022.11.09-16.40.48:785][532]PIE: Play in editor total start time 0,192 seconds.
+[2022.11.09-16.40.48:798][532]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.40.54:130][971]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.40.58:864][373]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.40.58:864][373]LogBlueprintUserMessages: [MainUI_C_0] -1.0
+[2022.11.09-16.40.58:875][374]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.40.58:875][374]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.40.58:875][374]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.41.00:559][521]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.41.00:559][521]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.41.00:559][521]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.41.00:559][521]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.41.04:387][844]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.41.08:284][177]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.41.08:284][177]LogBlueprintUserMessages: [MainUI_C_0] 0.5
+[2022.11.09-16.41.14:075][677]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.41.18:859][ 93]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.41.25:563][683]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.41.25:563][683]LogBlueprintUserMessages: [MainUI_C_0] -0.5
+[2022.11.09-16.41.25:577][684]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.41.25:577][684]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.41.25:577][684]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.41.27:055][812]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.41.27:055][812]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.41.27:056][812]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.41.27:061][812]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.41.27:062][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.41.27:075][812]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.41.27:083][812]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.41.27:160][812]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-16.41.27:160][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2022.11.09-16.41.27:162][812]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=59
+[2022.11.09-16.41.27:168][812]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.11.09-16.41.27:194][813]LogPlayLevel: Display: Destroying online subsystem :Context_105
+[2022.11.09-16.41.42:644][620]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/Tasks/T_TakeDamage.T_TakeDamage
+[2022.11.09-16.41.42:644][620]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.41.52:527][738]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2022.11.09-16.41.52:541][738]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.11.09-16.41.52:541][738]PIE: New page: PIE session: MainLevel (9 нояб. 2022 г., 22:41:52)
+[2022.11.09-16.41.52:541][738]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.41.52:547][738]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005589s)
+[2022.11.09-16.41.52:547][738]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/MainLevel.MainLevel to /Game/UEDPIE_0_MainLevel.MainLevel (0.005671s)
+[2022.11.09-16.41.52:547][738]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.11.09-16.41.52:547][738]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.11.09-16.41.52:548][738]LogAIModule: Creating AISystem for world MainLevel
+[2022.11.09-16.41.52:548][738]LogPlayLevel: PIE: World Init took: (0.000744s)
+[2022.11.09-16.41.52:631][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.66ms
+[2022.11.09-16.41.52:633][738]LogAudio: Display: Creating Audio Device:                 Id: 60, Scope: Unique, Realtime: True
+[2022.11.09-16.41.52:633][738]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.11.09-16.41.52:633][738]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.11.09-16.41.52:633][738]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.11.09-16.41.52:633][738]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.11.09-16.41.52:634][738]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.11.09-16.41.52:634][738]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.11.09-16.41.52:634][738]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.11.09-16.41.52:634][738]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.11.09-16.41.52:634][738]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.11.09-16.41.52:634][738]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.11.09-16.41.52:634][738]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.11.09-16.41.52:636][738]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.11.09-16.41.52:657][738]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.11.09-16.41.52:657][738]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.11.09-16.41.52:657][738]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.11.09-16.41.52:657][738]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.11.09-16.41.52:659][738]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=60
+[2022.11.09-16.41.52:659][738]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=60
+[2022.11.09-16.41.52:660][738]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=60
+[2022.11.09-16.41.52:660][738]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=60
+[2022.11.09-16.41.52:660][738]LogInit: FAudioDevice initialized.
+[2022.11.09-16.41.52:660][738]LogAudio: Display: Audio Device (ID: 60) registered with world 'MainLevel'.
+[2022.11.09-16.41.52:720][738]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.41.52:720][738]LogLoad: Game class is 'MainGameMode_C'
+[2022.11.09-16.41.52:721][738]LogWorld: Bringing World /Game/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.11.09-19.41.52
+[2022.11.09-16.41.52:721][738]LogWorld: Bringing up level for play took: 0.001153
+[2022.11.09-16.41.52:723][738]LogOnline: OSS: Created online subsystem instance for: :Context_107
+[2022.11.09-16.41.52:730][738]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.41.52:730][738]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.11.09-16.41.52:730][738]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.11.09-16.41.52:732][738]PIE: Server logged in
+[2022.11.09-16.41.52:733][738]PIE: Play in editor total start time 0,195 seconds.
+[2022.11.09-16.41.52:742][738]LogViewport: Scene viewport resized to 1280x720, mode Windowed.
+[2022.11.09-16.41.56:498][ 42]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.42.00:589][398]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.42.00:589][398]LogBlueprintUserMessages: [MainUI_C_0] -0.5
+[2022.11.09-16.42.00:599][399]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.42.00:599][399]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.42.00:599][399]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.42.02:727][592]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.42.02:727][592]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.42.02:727][592]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.42.02:727][592]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.42.06:100][885]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.42.10:237][245]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.42.10:237][245]LogBlueprintUserMessages: [MainUI_C_0] -0.166667
+[2022.11.09-16.42.10:248][246]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.42.10:248][246]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.42.10:248][246]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.42.12:171][419]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.42.12:171][419]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.42.12:171][419]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.42.12:171][419]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.42.15:494][710]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.42.19:149][ 29]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.42.19:149][ 29]LogBlueprintUserMessages: [MainUI_C_0] -0.285714
+[2022.11.09-16.42.19:161][ 30]LogBlueprintUserMessages: [T_GodDefeated_C_0] god defeated
+[2022.11.09-16.42.19:161][ 30]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.11.09-16.42.19:161][ 30]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.11.09-16.42.20:526][154]LogBlueprintUserMessages: [T_GodDefeated_C_0] clicked
+[2022.11.09-16.42.20:526][154]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.11.09-16.42.20:526][154]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.11.09-16.42.20:526][154]LogBlueprintUserMessages: [MainUI_C_0] 1.0
+[2022.11.09-16.42.23:664][423]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.42.27:946][789]LogBlueprintUserMessages: [T_ApplyDamage_C_0] apply damage
+[2022.11.09-16.42.27:946][789]LogBlueprintUserMessages: [MainUI_C_0] 0.111111
+[2022.11.09-16.42.32:047][147]LogBlueprintUserMessages: [T_TakeDamage_C_0] take damage
+[2022.11.09-16.42.37:201][598]LogBlueprintUserMessages: [ThrowDices_C_0] add HP
+[2022.11.09-16.42.40:046][853]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.11.09-16.42.40:046][853]LogWorld: BeginTearingDown for /Game/UEDPIE_0_MainLevel
+[2022.11.09-16.42.40:047][853]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone]  (64-bit/SM5)' being destroyed
+[2022.11.09-16.42.40:053][853]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.11.09-16.42.40:053][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.42.40:067][853]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.11.09-16.42.40:074][853]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.11.09-16.42.40:159][853]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.11.09-16.42.40:160][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2022.11.09-16.42.40:161][853]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=60
+[2022.11.09-16.42.40:167][853]LogUObjectHash: Compacting FUObjectHashTables data took   1.72ms
+[2022.11.09-16.42.40:191][854]LogPlayLevel: Display: Destroying online subsystem :Context_107
+[2022.11.09-16.42.59:347][ 66]BlueprintLog: New page: Compile MainUI
+[2022.11.09-16.42.59:596][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.11.09-16.43.00:096][102]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset" SILENT=true
+[2022.11.09-16.43.00:158][102]LogSavePackage: Moving output files for package: /Game/Widgets/MainUI
+[2022.11.09-16.43.00:159][102]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUIFC905CA04F5408DE67D5779A14534B38.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset'
+[2022.11.09-16.43.00:179][102]AssetCheck: New page: Asset Save: MainUI
+[2022.11.09-16.43.00:179][102]LogContentValidation: Display: Validating WidgetBlueprint /Game/Widgets/MainUI.MainUI
