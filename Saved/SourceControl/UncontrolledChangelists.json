@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"E:/GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset",
+				"E:/GAME_PROJECTS_ue/WhoIsTheGod/Content/Saves/SaveGameInstance.uasset"
+			]
+		}
+	]
+}
