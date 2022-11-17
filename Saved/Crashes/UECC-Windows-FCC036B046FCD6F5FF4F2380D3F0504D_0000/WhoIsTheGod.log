@@ -1142,16 +1142,3 @@ Make sure 'MainWindowUI' has been compiled for  Get As Game Save Data
 [2022.11.17-17.27.00:103][482]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Saves/GameSaveData.GameSaveData
 [2022.11.17-17.27.00:173][482]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
 [2022.11.17-17.27.02:136][482]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2022.11.17-17.27.16:753][482]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [14297ms] waiting for h/w. InstanceID=1
-[2022.11.17-17.27.16:758][482]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.021645s
-[2022.11.17-17.27.20:783][482]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.003288s (4.072409s overbudget)
-[2022.11.17-17.27.20:841][482]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=14640
-[2022.11.17-17.27.20:926][482]LogSlate: Took 0.083275 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
-[2022.11.17-17.27.21:373][483]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{a32fa627-4b83-433e-bdc4-b7bf0b556696}, Name=Динамики (High Definition Audio Device)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=14.26
-[2022.11.17-17.27.21:444][483]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
-[2022.11.17-17.27.21:446][483]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2022.11.17-17.28.34:143][156]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Saves/SaveGameInstance.SaveGameInstance
-[2022.11.17-17.28.34:143][156]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2022.11.17-17.28.35:108][157]LogSlate: Took 0.005615 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
-[2022.11.17-17.28.37:636][428]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Saves/BP_Saves.BP_Saves
-[2022.11.17-17.28.37:637][428]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
