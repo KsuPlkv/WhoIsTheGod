@@ -1,0 +1,6 @@
+2022/11/29-16:09:27.993 2148 Creating DB E:/GAME_PROJECTS_ue/WhoIsTheGod/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb since it was missing.
+2022/11/29-16:09:28.156 2148 Reusing MANIFEST E:/GAME_PROJECTS_ue/WhoIsTheGod/Saved/webcache_4430\IndexedDB\https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2022/11/29-16:12:03.900 b10 Level-0 table #5: started
+2022/11/29-16:12:03.955 b10 Level-0 table #5: 9967 bytes OK
+2022/11/29-16:12:03.958 b10 Delete type=0 #3
+2022/11/29-16:12:04.008 b10 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
