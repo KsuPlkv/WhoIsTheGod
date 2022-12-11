@@ -8390,3 +8390,893 @@ UnknownFunction []
 [2022.12.11-13.37.31:407][150]LogFileHelpers: InternalPromptForCheckoutAndSave took 158 ms (total: 3.02 sec)
 [2022.12.11-13.37.31:415][150]AssetCheck: New page: Asset Save: MainGameMode
 [2022.12.11-13.37.31:415][150]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MainGameMode.MainGameMode
+[2022.12.11-13.38.03:528][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.38.03:528][309]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.38.41:772][717]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/MainWindowUI.MainWindowUI
+[2022.12.11-13.38.41:772][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.38.41:788][717]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.38.42:358][717]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.38.42:358][717]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.38.59:780][718]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_SaveSlot.W_SaveSlot
+[2022.12.11-13.38.59:780][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.38.59:792][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.39.00:365][718]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.39.00:365][718]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.39.01:475][829]LogWorld: UWorld::CleanupWorld for World_39, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.39.01:475][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.39.01:488][829]LogWorld: UWorld::CleanupWorld for World_38, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.39.01:488][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.39.20:181][917]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_EnterSaveName.W_EnterSaveName
+[2022.12.11-13.39.20:181][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.39.20:194][917]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.39.20:786][917]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.39.20:786][917]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.40.08:055][467]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Saves/SaveGameInstance.SaveGameInstance
+[2022.12.11-13.40.08:055][467]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.40.22:908][136]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.40.22:908][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.40.22:921][136]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.40.22:921][136]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.43.29:245][138]BlueprintLog: New page: Compile BP_Saves
+[2022.12.11-13.43.29:482][138]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.11-13.44.22:151][677]BlueprintLog: New page: Compile SaveGameInstance
+[2022.12.11-13.44.22:336][677]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.11-13.45.03:274][198]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-13.45.03:275][198]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-13.45.03:275][198]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2022.12.11-13.45.23:808][403]BlueprintLog: New page: Compile W_NewGod
+[2022.12.11-13.45.23:929][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.12.11-13.45.36:692][780]BlueprintLog: New page: Compile MainGameMode
+[2022.12.11-13.45.36:931][780]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2022.12.11-13.45.44:522][307]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.11-13.45.45:471][307]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-13.45.45:678][307]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.11-13.45.45:716][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Saves/BP_Saves" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Saves/BP_Saves.uasset" SILENT=true
+[2022.12.11-13.45.45:740][307]LogSavePackage: Moving output files for package: /Game/Saves/BP_Saves
+[2022.12.11-13.45.45:740][307]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/BP_Saves5CA4A146411881BB2C8E238E3D00349A.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Saves/BP_Saves.uasset'
+[2022.12.11-13.45.45:742][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset" SILENT=true
+[2022.12.11-13.45.45:846][307]LogSavePackage: Moving output files for package: /Game/MainGameMode
+[2022.12.11-13.45.45:846][307]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainGameModeC9D4B3F84B1141F23B776B9C766C7CC0.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset'
+[2022.12.11-13.45.45:848][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Saves/SaveGameInstance" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Saves/SaveGameInstance.uasset" SILENT=true
+[2022.12.11-13.45.45:865][307]LogSavePackage: Moving output files for package: /Game/Saves/SaveGameInstance
+[2022.12.11-13.45.45:866][307]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/SaveGameInstance5A1A37DF45526FB1FDA985B776F667DF.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Saves/SaveGameInstance.uasset'
+[2022.12.11-13.45.45:880][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_EnterSaveName" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_EnterSaveName.uasset" SILENT=true
+[2022.12.11-13.45.45:898][307]LogSavePackage: Moving output files for package: /Game/Widgets/W_EnterSaveName
+[2022.12.11-13.45.45:899][307]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_EnterSaveName8A747E234743A740850814BD10921B97.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_EnterSaveName.uasset'
+[2022.12.11-13.45.45:905][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_NewGod" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset" SILENT=true
+[2022.12.11-13.45.45:924][307]LogSavePackage: Moving output files for package: /Game/Widgets/W_NewGod
+[2022.12.11-13.45.45:924][307]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_NewGodE06756F742B5ADBEE44288B5ADADA137.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset'
+[2022.12.11-13.45.45:929][307]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_SaveSlot" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_SaveSlot.uasset" SILENT=true
+[2022.12.11-13.45.45:951][307]LogSavePackage: Moving output files for package: /Game/Widgets/W_SaveSlot
+[2022.12.11-13.45.45:951][307]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_SaveSlotA7500AAA482E84BA894CA2B964EC88B4.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_SaveSlot.uasset'
+[2022.12.11-13.45.45:960][307]LogFileHelpers: InternalPromptForCheckoutAndSave took 282 ms (total: 3.30 sec)
+[2022.12.11-13.45.45:970][307]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.11-13.45.45:970][307]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MainGameMode.MainGameMode
+[2022.12.11-13.45.45:970][307]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Saves/BP_Saves.BP_Saves
+[2022.12.11-13.45.45:970][307]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Saves/SaveGameInstance.SaveGameInstance
+[2022.12.11-13.45.45:970][307]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_NewGod.W_NewGod
+[2022.12.11-13.45.45:971][307]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_SaveSlot.W_SaveSlot
+[2022.12.11-13.45.45:971][307]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_EnterSaveName.W_EnterSaveName
+[2022.12.11-13.45.46:262][336]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.11-13.45.46:277][336]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-13.45.46:277][336]PIE: New page: PIE session: StartLevel (11 дек. 2022 г., 19:45:46)
+[2022.12.11-13.45.46:277][336]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.45.46:278][336]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001256s)
+[2022.12.11-13.45.46:278][336]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001286s)
+[2022.12.11-13.45.46:278][336]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.45.46:279][336]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.45.46:279][336]LogPlayLevel: PIE: World Init took: (0.000772s)
+[2022.12.11-13.45.46:386][336]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2022.12.11-13.45.46:388][336]LogAudio: Display: Creating Audio Device:                 Id: 43, Scope: Unique, Realtime: True
+[2022.12.11-13.45.46:388][336]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-13.45.46:388][336]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-13.45.46:388][336]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-13.45.46:388][336]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-13.45.46:389][336]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.11-13.45.46:389][336]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-13.45.46:389][336]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.11-13.45.46:389][336]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-13.45.46:389][336]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-13.45.46:389][336]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-13.45.46:389][336]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-13.45.46:391][336]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-13.45.46:415][336]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.11-13.45.46:415][336]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-13.45.46:415][336]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-13.45.46:415][336]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-13.45.46:416][336]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=43
+[2022.12.11-13.45.46:416][336]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=43
+[2022.12.11-13.45.46:418][336]LogInit: FAudioDevice initialized.
+[2022.12.11-13.45.46:418][336]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=43
+[2022.12.11-13.45.46:418][336]LogAudio: Display: Audio Device (ID: 43) registered with world 'StartLevel'.
+[2022.12.11-13.45.46:418][336]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=43
+[2022.12.11-13.45.46:471][336]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.45.46:471][336]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.45.46:471][336]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.45.46
+[2022.12.11-13.45.46:472][336]LogWorld: Bringing up level for play took: 0.000402
+[2022.12.11-13.45.46:475][336]LogOnline: OSS: Created online subsystem instance for: :Context_82
+[2022.12.11-13.45.46:475][336]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.45.46:476][336]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.45.46:476][336]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'SaveSlots' of length 0 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Script Msg: Attempted to access index 0 from array 'Stages' of length 0 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'SaveSlots' of length 0 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Stages' of length 0 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.45.46:477][336]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 0 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.45.46:478][336]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.45.46:478][336]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 0 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.45.46:478][336]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.45.46:483][336]PIE: Server logged in
+[2022.12.11-13.45.46:488][336]PIE: Play in editor total start time 0,217 seconds.
+[2022.12.11-13.45.46:497][336]LogViewport: Scene viewport resized to 1272x720, mode Windowed.
+[2022.12.11-13.45.49:406][635]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:SaveGameInstance_C_41.MainWindowUI_C_0.WidgetTree_0.W_SaveSlot.WidgetTree_0.W_EnterSaveName_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2022.12.11-13.45.50:330][740]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.45.50:331][740]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.45.50:331][740]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.45.50:331][740]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.45.50:331][740]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.45.50:461][740]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.45.50:464][740]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2022.12.11-13.45.50:500][740]LogAudio: Display: Audio Device (ID: 43) registered with world 'MainLevel'.
+[2022.12.11-13.45.50:500][740]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.45.50:501][740]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.45.50:501][740]LogPlayLevel: PIE: World Init took: (0.000757s)
+[2022.12.11-13.45.50:501][740]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.45.50:507][740]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.45.50
+[2022.12.11-13.45.50:507][740]LogWorld: Bringing up level for play took: 0.005713
+[2022.12.11-13.45.50:509][740]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.45.50:509][740]LogLoad: Took 0.178238 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.45.50:929][761]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.45.50:929][761]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.45.50:930][761]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.45.50:930][761]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.45.56:395][139]LogBlueprintUserMessages: [MainGameMode_C_0] new god set
+[2022.12.11-13.45.56:396][139]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.45.56:396][139]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.45.57:498][219]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.45.57:498][219]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.45.57:498][219]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.45.57:499][219]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.45.57:499][219]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.45.57:596][219]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.45.57:599][219]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.11-13.45.57:627][219]LogAudio: Display: Audio Device (ID: 43) registered with world 'MainLevel'.
+[2022.12.11-13.45.57:627][219]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.45.57:628][219]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.45.57:628][219]LogPlayLevel: PIE: World Init took: (0.000788s)
+[2022.12.11-13.45.57:628][219]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.45.57:633][219]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.45.57
+[2022.12.11-13.45.57:633][219]LogWorld: Bringing up level for play took: 0.004933
+[2022.12.11-13.45.57:635][219]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.45.57:635][219]LogLoad: Took 0.136942 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.45.58:095][236]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.45.58:095][236]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.45.58:097][236]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.45.58:097][236]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.46.00:698][416]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.46.00:698][416]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.46.00:699][416]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.11-13.46.00:704][416]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.46.00:704][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.46.00:707][416]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-13.46.00:714][416]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.46.00:809][416]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.46.00:809][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.12.11-13.46.00:811][416]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=43
+[2022.12.11-13.46.00:818][416]LogUObjectHash: Compacting FUObjectHashTables data took   2.17ms
+[2022.12.11-13.46.00:842][417]LogPlayLevel: Display: Destroying online subsystem :Context_82
+[2022.12.11-13.46.22:448][840]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/W_EnterSaveName.W_EnterSaveName
+[2022.12.11-13.46.22:448][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.46.22:461][840]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.46.23:021][840]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.46.23:021][840]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.11-13.46.47:044][558]BlueprintLog: New page: Compile W_EnterSaveName
+[2022.12.11-13.46.47:205][558]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2022.12.11-13.47.12:004][255]BlueprintLog: New page: Compile W_NewGod
+[2022.12.11-13.47.12:218][255]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2022.12.11-13.47.12:932][313]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.11-13.47.12:947][313]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-13.47.12:947][313]PIE: New page: PIE session: StartLevel (11 дек. 2022 г., 19:47:12)
+[2022.12.11-13.47.12:947][313]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.47.12:948][313]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001244s)
+[2022.12.11-13.47.12:948][313]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001273s)
+[2022.12.11-13.47.12:949][313]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.47.12:949][313]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.47.12:949][313]LogPlayLevel: PIE: World Init took: (0.000725s)
+[2022.12.11-13.47.13:053][313]LogUObjectHash: Compacting FUObjectHashTables data took   1.82ms
+[2022.12.11-13.47.13:057][313]LogAudio: Display: Creating Audio Device:                 Id: 44, Scope: Unique, Realtime: True
+[2022.12.11-13.47.13:057][313]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-13.47.13:057][313]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-13.47.13:057][313]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-13.47.13:057][313]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-13.47.13:057][313]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.11-13.47.13:057][313]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-13.47.13:057][313]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.11-13.47.13:057][313]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-13.47.13:057][313]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-13.47.13:057][313]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-13.47.13:057][313]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-13.47.13:059][313]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-13.47.13:081][313]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.11-13.47.13:081][313]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-13.47.13:081][313]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-13.47.13:081][313]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-13.47.13:082][313]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=44
+[2022.12.11-13.47.13:082][313]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=44
+[2022.12.11-13.47.13:083][313]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=44
+[2022.12.11-13.47.13:083][313]LogInit: FAudioDevice initialized.
+[2022.12.11-13.47.13:083][313]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=44
+[2022.12.11-13.47.13:083][313]LogAudio: Display: Audio Device (ID: 44) registered with world 'StartLevel'.
+[2022.12.11-13.47.13:135][313]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.47.13:135][313]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.47.13:135][313]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.47.13
+[2022.12.11-13.47.13:136][313]LogWorld: Bringing up level for play took: 0.000432
+[2022.12.11-13.47.13:138][313]LogOnline: OSS: Created online subsystem instance for: :Context_85
+[2022.12.11-13.47.13:138][313]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.47.13:139][313]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.47.13:139][313]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.13:140][313]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.13:142][313]PIE: Server logged in
+[2022.12.11-13.47.13:143][313]PIE: Play in editor total start time 0,201 seconds.
+[2022.12.11-13.47.13:154][313]LogViewport: Scene viewport resized to 1272x720, mode Windowed.
+[2022.12.11-13.47.14:587][450]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2022.12.11-13.47.14:587][450]LogUObjectGlobals: Warning: Failed to find object 'Object /Engine/Transient.UnrealEdEngine_0.SaveGameInstance_C_41.MainWindowUI_C_0.WidgetTree_0.W_SaveSlot'
+[2022.12.11-13.47.14:589][450]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.47.14:589][450]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.47.14:589][450]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.47.14:589][450]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.47.14:589][450]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.47.14:713][450]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.47.14:715][450]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.11-13.47.14:748][450]LogAudio: Display: Audio Device (ID: 44) registered with world 'MainLevel'.
+[2022.12.11-13.47.14:749][450]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.47.14:749][450]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.47.14:749][450]LogPlayLevel: PIE: World Init took: (0.000781s)
+[2022.12.11-13.47.14:749][450]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.47.14:755][450]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.47.14
+[2022.12.11-13.47.14:755][450]LogWorld: Bringing up level for play took: 0.005596
+[2022.12.11-13.47.14:756][450]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.47.14:757][450]LogLoad: Took 0.166931 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.47.15:192][473]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.47.15:192][473]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.47.15:195][473]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.47.15:195][473]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.47.21:272][892]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.47.21:273][892]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.47.22:599][988]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.47.22:599][988]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.47.30:641][549]LogBlueprintUserMessages: [MainGameMode_C_0] new god set
+[2022.12.11-13.47.30:642][549]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.47.30:642][549]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.47.34:138][805]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:SaveGameInstance_C_42.W_NewGod_C_0.WidgetTree_0.W_EnterSaveName_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2022.12.11-13.47.34:145][805]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.47.34:145][805]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.47.34:145][805]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.47.34:146][805]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.47.34:146][805]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.47.34:247][805]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.47.34:250][805]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.11-13.47.34:279][805]LogAudio: Display: Audio Device (ID: 44) registered with world 'MainLevel'.
+[2022.12.11-13.47.34:279][805]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.47.34:280][805]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.47.34:280][805]LogPlayLevel: PIE: World Init took: (0.000786s)
+[2022.12.11-13.47.34:280][805]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.47.34:285][805]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.47.34
+[2022.12.11-13.47.34:285][805]LogWorld: Bringing up level for play took: 0.004784
+[2022.12.11-13.47.34:286][805]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.47.34:286][805]LogLoad: Took 0.141144 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.47.34:735][831]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.47.34:735][831]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.47.34:737][831]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.47.34:737][831]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.47.36:167][936]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.47.36:167][936]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.47.37:102][  4]LogNet: Browse: /Game/Maps/StartLevel
+[2022.12.11-13.47.37:102][  4]LogLoad: LoadMap: /Game/Maps/StartLevel
+[2022.12.11-13.47.37:102][  4]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.47.37:103][  4]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.47.37:103][  4]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.47.37:229][  4]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.47.37:233][  4]LogUObjectHash: Compacting FUObjectHashTables data took   2.36ms
+[2022.12.11-13.47.37:236][  4]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.47.37:238][  4]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001340s)
+[2022.12.11-13.47.37:238][  4]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001389s)
+[2022.12.11-13.47.37:238][  4]LogAudio: Display: Audio Device (ID: 44) registered with world 'StartLevel'.
+[2022.12.11-13.47.37:238][  4]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.47.37:238][  4]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.47.37:238][  4]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2022.12.11-13.47.37:238][  4]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.47.37:239][  4]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.47.37
+[2022.12.11-13.47.37:239][  4]LogWorld: Bringing up level for play took: 0.000320
+[2022.12.11-13.47.37:239][  4]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.37:241][  4]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.37:241][  4]LogLoad: Took 0.138603 seconds to LoadMap(/Game/Maps/UEDPIE_0_StartLevel)
+[2022.12.11-13.47.40:384][334]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.47.40:385][334]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.47.40:385][334]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.47.40:385][334]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.47.40:385][334]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.47.40:488][334]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.47.40:491][334]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2022.12.11-13.47.40:520][334]LogAudio: Display: Audio Device (ID: 44) registered with world 'MainLevel'.
+[2022.12.11-13.47.40:520][334]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.47.40:520][334]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.47.40:520][334]LogPlayLevel: PIE: World Init took: (0.000741s)
+[2022.12.11-13.47.40:520][334]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.47.40:526][334]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.47.40
+[2022.12.11-13.47.40:526][334]LogWorld: Bringing up level for play took: 0.005246
+[2022.12.11-13.47.40:527][334]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.47.40:527][334]LogLoad: Took 0.142894 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.47.40:977][358]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.47.40:977][358]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.47.40:979][358]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.47.40:980][358]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.47.42:375][460]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.47.42:375][460]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.47.43:275][526]LogNet: Browse: /Game/Maps/StartLevel
+[2022.12.11-13.47.43:275][526]LogLoad: LoadMap: /Game/Maps/StartLevel
+[2022.12.11-13.47.43:275][526]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.47.43:276][526]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.47.43:276][526]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.47.43:406][526]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.47.43:409][526]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2022.12.11-13.47.43:413][526]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.47.43:414][526]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001602s)
+[2022.12.11-13.47.43:414][526]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001703s)
+[2022.12.11-13.47.43:414][526]LogAudio: Display: Audio Device (ID: 44) registered with world 'StartLevel'.
+[2022.12.11-13.47.43:415][526]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.47.43:415][526]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.47.43:415][526]LogPlayLevel: PIE: World Init took: (0.000807s)
+[2022.12.11-13.47.43:415][526]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.47.43:415][526]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.47.43
+[2022.12.11-13.47.43:416][526]LogWorld: Bringing up level for play took: 0.000302
+[2022.12.11-13.47.43:416][526]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.47.43:418][526]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.47.43:418][526]LogLoad: Took 0.143192 seconds to LoadMap(/Game/Maps/UEDPIE_0_StartLevel)
+[2022.12.11-13.47.45:448][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.47.45:448][733]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.47.45:449][733]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.11-13.47.45:456][733]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.47.45:456][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.47.45:460][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-13.47.45:468][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.47.45:567][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.47.45:567][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.12.11-13.47.45:569][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=44
+[2022.12.11-13.47.45:575][733]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.11-13.47.45:600][734]LogPlayLevel: Display: Destroying online subsystem :Context_85
+[2022.12.11-13.48.18:245][779]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.11-13.48.18:247][779]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartLevel' took 0.102
+[2022.12.11-13.48.18:248][779]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/W_NewGod] ([2] browsable assets)...
+[2022.12.11-13.48.18:252][779]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/W_NewGod.W_NewGod]
+[2022.12.11-13.48.18:252][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/W_NewGod]
+[2022.12.11-13.48.18:252][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_NewGod" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/W_NewGod_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.48.18:272][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/W_NewGod_Auto6
+[2022.12.11-13.48.18:272][779]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_NewGod_Auto6570D30F644990909BA2A29AAD0A4D3E1.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/W_NewGod_Auto6.uasset'
+[2022.12.11-13.48.18:273][779]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/W_EnterSaveName] ([2] browsable assets)...
+[2022.12.11-13.48.18:285][779]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/W_EnterSaveName.W_EnterSaveName]
+[2022.12.11-13.48.18:285][779]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/W_EnterSaveName]
+[2022.12.11-13.48.18:285][779]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_EnterSaveName" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/W_EnterSaveName_Auto6.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.48.18:665][779]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/W_EnterSaveName_Auto6
+[2022.12.11-13.48.18:666][779]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_EnterSaveName_Auto66F690A9D46D4871A3A93EBBEB7556AFE.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/W_EnterSaveName_Auto6.uasset'
+[2022.12.11-13.48.18:682][779]LogFileHelpers: Auto-saving content packages took 0.435
+[2022.12.11-13.48.42:623][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.85ms
+[2022.12.11-13.48.43:483][446]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-13.48.43:573][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.11-13.48.43:625][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_EnterSaveName" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_EnterSaveName.uasset" SILENT=true
+[2022.12.11-13.48.43:643][446]LogSavePackage: Moving output files for package: /Game/Widgets/W_EnterSaveName
+[2022.12.11-13.48.43:644][446]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_EnterSaveName763EF21C45137DC5705B968D1D69FB41.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_EnterSaveName.uasset'
+[2022.12.11-13.48.43:646][446]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_NewGod" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset" SILENT=true
+[2022.12.11-13.48.43:665][446]LogSavePackage: Moving output files for package: /Game/Widgets/W_NewGod
+[2022.12.11-13.48.43:666][446]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_NewGod21E889E745A4C536000BD2B692CE88D3.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset'
+[2022.12.11-13.48.43:674][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 3.40 sec)
+[2022.12.11-13.48.43:682][446]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.11-13.48.43:682][446]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_NewGod.W_NewGod
+[2022.12.11-13.48.43:683][446]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_EnterSaveName.W_EnterSaveName
+[2022.12.11-13.49.07:780][310]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.49.07:780][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.49.26:121][254]BlueprintLog: New page: Compile W_EnterSaveName
+[2022.12.11-13.49.26:299][254]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2022.12.11-13.49.27:121][322]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.11-13.49.27:133][322]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-13.49.27:133][322]PIE: New page: PIE session: StartLevel (11 дек. 2022 г., 19:49:27)
+[2022.12.11-13.49.27:133][322]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.49.27:135][322]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001352s)
+[2022.12.11-13.49.27:135][322]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001384s)
+[2022.12.11-13.49.27:135][322]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.49.27:135][322]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.49.27:136][322]LogPlayLevel: PIE: World Init took: (0.000791s)
+[2022.12.11-13.49.27:231][322]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2022.12.11-13.49.27:237][322]LogAudio: Display: Creating Audio Device:                 Id: 45, Scope: Unique, Realtime: True
+[2022.12.11-13.49.27:237][322]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-13.49.27:237][322]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-13.49.27:237][322]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-13.49.27:237][322]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-13.49.27:237][322]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.11-13.49.27:237][322]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-13.49.27:237][322]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.11-13.49.27:237][322]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-13.49.27:238][322]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-13.49.27:238][322]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-13.49.27:238][322]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-13.49.27:240][322]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-13.49.27:261][322]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.11-13.49.27:261][322]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-13.49.27:261][322]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-13.49.27:261][322]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-13.49.27:262][322]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=45
+[2022.12.11-13.49.27:262][322]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=45
+[2022.12.11-13.49.27:264][322]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=45
+[2022.12.11-13.49.27:264][322]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=45
+[2022.12.11-13.49.27:264][322]LogInit: FAudioDevice initialized.
+[2022.12.11-13.49.27:264][322]LogAudio: Display: Audio Device (ID: 45) registered with world 'StartLevel'.
+[2022.12.11-13.49.27:310][322]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.49.27:311][322]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.49.27:311][322]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.49.27
+[2022.12.11-13.49.27:311][322]LogWorld: Bringing up level for play took: 0.000402
+[2022.12.11-13.49.27:314][322]LogOnline: OSS: Created online subsystem instance for: :Context_86
+[2022.12.11-13.49.27:314][322]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.49.27:315][322]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.49.27:315][322]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.11-13.49.27:316][322]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.49.27:316][322]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.49.27:316][322]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.49.27:316][322]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.49.27:316][322]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.49.27:316][322]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.49.27:317][322]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.49.27:317][322]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.49.27:318][322]PIE: Server logged in
+[2022.12.11-13.49.27:320][322]PIE: Play in editor total start time 0,19 seconds.
+[2022.12.11-13.49.27:330][322]LogViewport: Scene viewport resized to 1272x720, mode Windowed.
+[2022.12.11-13.49.30:250][616]LogBlueprintUserMessages: [W_EnterSaveName_C_0] W_SaveSlot_672
+[2022.12.11-13.49.30:251][616]LogBlueprintUserMessages: [W_EnterSaveName_C_0] W_SaveSlot_672
+[2022.12.11-13.49.30:251][616]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:SaveGameInstance_C_43.MainWindowUI_C_0.WidgetTree_0.W_SaveSlot_672.WidgetTree_0.W_EnterSaveName_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2022.12.11-13.49.32:083][802]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.49.32:083][802]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.49.32:083][802]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.49.32:084][802]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.49.32:084][802]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.49.32:196][802]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.49.32:199][802]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2022.12.11-13.49.32:228][802]LogAudio: Display: Audio Device (ID: 45) registered with world 'MainLevel'.
+[2022.12.11-13.49.32:228][802]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.49.32:229][802]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.49.32:229][802]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2022.12.11-13.49.32:229][802]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.49.32:234][802]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.49.32
+[2022.12.11-13.49.32:235][802]LogWorld: Bringing up level for play took: 0.005416
+[2022.12.11-13.49.32:236][802]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.49.32:236][802]LogLoad: Took 0.152808 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.49.32:686][827]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.49.32:686][827]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.49.32:688][827]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.49.32:688][827]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.49.39:709][322]LogBlueprintUserMessages: [MainGameMode_C_0] new god set
+[2022.12.11-13.49.39:710][322]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.49.39:710][322]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.49.44:713][691]LogBlueprintUserMessages: [W_EnterSaveName_C_0] W_SaveSlot_672
+[2022.12.11-13.49.44:716][691]LogBlueprintUserMessages: [W_EnterSaveName_C_0] W_SaveSlot_672
+[2022.12.11-13.49.44:716][691]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:SaveGameInstance_C_43.W_NewGod_C_0.WidgetTree_0.W_EnterSaveName_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2022.12.11-13.49.44:724][691]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.49.44:724][691]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.49.44:724][691]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.49.44:724][691]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.49.44:724][691]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.49.44:855][691]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.49.44:858][691]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2022.12.11-13.49.44:887][691]LogAudio: Display: Audio Device (ID: 45) registered with world 'MainLevel'.
+[2022.12.11-13.49.44:887][691]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.49.44:888][691]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.49.44:888][691]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2022.12.11-13.49.44:888][691]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.49.44:893][691]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.49.44
+[2022.12.11-13.49.44:893][691]LogWorld: Bringing up level for play took: 0.005187
+[2022.12.11-13.49.44:895][691]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.49.44:895][691]LogLoad: Took 0.171285 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.49.45:312][715]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.49.45:312][715]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.49.45:314][715]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.49.45:314][715]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.49.47:553][881]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.49.47:553][881]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.49.48:172][927]LogNet: Browse: /Game/Maps/StartLevel
+[2022.12.11-13.49.48:172][927]LogLoad: LoadMap: /Game/Maps/StartLevel
+[2022.12.11-13.49.48:172][927]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.49.48:173][927]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.49.48:173][927]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.49.48:269][927]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.49.48:272][927]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.11-13.49.48:276][927]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.49.48:278][927]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001777s)
+[2022.12.11-13.49.48:278][927]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001908s)
+[2022.12.11-13.49.48:278][927]LogAudio: Display: Audio Device (ID: 45) registered with world 'StartLevel'.
+[2022.12.11-13.49.48:278][927]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.49.48:278][927]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.49.48:279][927]LogPlayLevel: PIE: World Init took: (0.000959s)
+[2022.12.11-13.49.48:279][927]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.49.48:279][927]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.49.48
+[2022.12.11-13.49.48:279][927]LogWorld: Bringing up level for play took: 0.000314
+[2022.12.11-13.49.48:279][927]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.49.48:282][927]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 2 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.49.48:282][927]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.49.48:282][927]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 2 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.49.48:282][927]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.49.48:282][927]LogLoad: Took 0.109773 seconds to LoadMap(/Game/Maps/UEDPIE_0_StartLevel)
+[2022.12.11-13.49.50:185][129]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.49.50:185][129]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.49.50:185][129]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.49.50:186][129]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.49.50:186][129]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.49.50:310][129]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.49.50:312][129]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.11-13.49.50:341][129]LogAudio: Display: Audio Device (ID: 45) registered with world 'MainLevel'.
+[2022.12.11-13.49.50:341][129]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.49.50:342][129]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.49.50:342][129]LogPlayLevel: PIE: World Init took: (0.000748s)
+[2022.12.11-13.49.50:342][129]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.49.50:347][129]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.49.50
+[2022.12.11-13.49.50:347][129]LogWorld: Bringing up level for play took: 0.004945
+[2022.12.11-13.49.50:348][129]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.49.50:348][129]LogLoad: Took 0.163097 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.49.50:784][153]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.49.50:784][153]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.49.50:785][153]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.49.50:785][153]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.49.51:778][223]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.49.51:778][223]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.49.51:779][223]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.11-13.49.51:785][223]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.49.51:786][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.49.51:788][223]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-13.49.51:796][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.49.51:891][223]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.49.51:891][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2022.12.11-13.49.51:893][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=45
+[2022.12.11-13.49.51:900][223]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2022.12.11-13.49.51:924][224]LogPlayLevel: Display: Destroying online subsystem :Context_86
+[2022.12.11-13.50.16:764][167]BlueprintLog: New page: Compile W_SaveSlot
+[2022.12.11-13.50.16:936][167]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.12.11-13.50.18:524][323]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.11-13.50.18:537][323]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.11-13.50.18:538][323]PIE: New page: PIE session: StartLevel (11 дек. 2022 г., 19:50:18)
+[2022.12.11-13.50.18:538][323]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.50.18:539][323]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001320s)
+[2022.12.11-13.50.18:539][323]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001351s)
+[2022.12.11-13.50.18:539][323]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.50.18:540][323]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.50.18:540][323]LogPlayLevel: PIE: World Init took: (0.000745s)
+[2022.12.11-13.50.18:635][323]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.11-13.50.18:641][323]LogAudio: Display: Creating Audio Device:                 Id: 46, Scope: Unique, Realtime: True
+[2022.12.11-13.50.18:641][323]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.11-13.50.18:641][323]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.11-13.50.18:641][323]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.11-13.50.18:641][323]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.11-13.50.18:641][323]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.11-13.50.18:641][323]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.11-13.50.18:641][323]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.11-13.50.18:641][323]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.11-13.50.18:641][323]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.11-13.50.18:641][323]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.11-13.50.18:641][323]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.11-13.50.18:643][323]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.11-13.50.18:664][323]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.11-13.50.18:665][323]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.11-13.50.18:665][323]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.11-13.50.18:665][323]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.11-13.50.18:665][323]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=46
+[2022.12.11-13.50.18:665][323]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=46
+[2022.12.11-13.50.18:667][323]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=46
+[2022.12.11-13.50.18:667][323]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=46
+[2022.12.11-13.50.18:668][323]LogInit: FAudioDevice initialized.
+[2022.12.11-13.50.18:668][323]LogAudio: Display: Audio Device (ID: 46) registered with world 'StartLevel'.
+[2022.12.11-13.50.18:729][323]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.50.18:729][323]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.50.18:729][323]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.50.18
+[2022.12.11-13.50.18:730][323]LogWorld: Bringing up level for play took: 0.000487
+[2022.12.11-13.50.18:732][323]LogOnline: OSS: Created online subsystem instance for: :Context_87
+[2022.12.11-13.50.18:732][323]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.50.18:733][323]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.50.18:733][323]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.11-13.50.18:734][323]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 2 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.50.18:734][323]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.50.18:734][323]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 2 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.50.18:734][323]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.50.18:736][323]PIE: Server logged in
+[2022.12.11-13.50.18:737][323]PIE: Play in editor total start time 0,203 seconds.
+[2022.12.11-13.50.18:745][323]LogViewport: Scene viewport resized to 1272x720, mode Windowed.
+[2022.12.11-13.50.22:872][770]LogLinker: Warning: Failed to load '/Engine/Transient': Can't find file.
+[2022.12.11-13.50.22:874][770]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.50.22:874][770]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.50.22:874][770]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.50.22:874][770]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.50.22:874][770]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.50.22:988][770]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.50.22:991][770]LogUObjectHash: Compacting FUObjectHashTables data took   1.80ms
+[2022.12.11-13.50.23:023][770]LogAudio: Display: Audio Device (ID: 46) registered with world 'MainLevel'.
+[2022.12.11-13.50.23:023][770]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.50.23:024][770]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.50.23:024][770]LogPlayLevel: PIE: World Init took: (0.000770s)
+[2022.12.11-13.50.23:024][770]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.50.23:029][770]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.50.23
+[2022.12.11-13.50.23:030][770]LogWorld: Bringing up level for play took: 0.005353
+[2022.12.11-13.50.23:031][770]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.50.23:031][770]LogLoad: Took 0.157333 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.50.23:468][794]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.50.23:468][794]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.50.23:471][794]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.50.23:471][794]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.50.29:385][207]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.50.29:385][207]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.50.30:416][283]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.50.30:416][283]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.50.43:335][201]LogBlueprintUserMessages: [MainGameMode_C_0] new god set
+[2022.12.11-13.50.43:336][201]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.50.43:336][201]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.50.48:109][555]LogBlueprintUserMessages: [W_EnterSaveName_C_0] W_SaveSlot_672
+[2022.12.11-13.50.48:112][555]LogBlueprintUserMessages: [W_EnterSaveName_C_0] W_SaveSlot_672
+[2022.12.11-13.50.48:112][555]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:SaveGameInstance_C_44.W_NewGod_C_0.WidgetTree_0.W_EnterSaveName_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2022.12.11-13.50.48:119][555]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.11-13.50.48:119][555]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.11-13.50.48:119][555]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.50.48:120][555]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.50.48:120][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.50.48:215][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.50.48:218][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2022.12.11-13.50.48:248][555]LogAudio: Display: Audio Device (ID: 46) registered with world 'MainLevel'.
+[2022.12.11-13.50.48:248][555]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.50.48:249][555]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.11-13.50.48:249][555]LogPlayLevel: PIE: World Init took: (0.000738s)
+[2022.12.11-13.50.48:249][555]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.11-13.50.48:255][555]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.11-16.50.48
+[2022.12.11-13.50.48:255][555]LogWorld: Bringing up level for play took: 0.005595
+[2022.12.11-13.50.48:256][555]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.11-13.50.48:256][555]LogLoad: Took 0.137177 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.11-13.50.48:707][582]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.11-13.50.48:707][582]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.11-13.50.48:709][582]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.11-13.50.48:709][582]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.11-13.50.52:206][843]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.11-13.50.52:206][843]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.11-13.50.52:894][894]LogNet: Browse: /Game/Maps/StartLevel
+[2022.12.11-13.50.52:894][894]LogLoad: LoadMap: /Game/Maps/StartLevel
+[2022.12.11-13.50.52:894][894]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.11-13.50.52:894][894]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.50.52:894][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.50.53:032][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.50.53:035][894]LogUObjectHash: Compacting FUObjectHashTables data took   1.81ms
+[2022.12.11-13.50.53:038][894]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.50.53:040][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001825s)
+[2022.12.11-13.50.53:040][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001880s)
+[2022.12.11-13.50.53:040][894]LogAudio: Display: Audio Device (ID: 46) registered with world 'StartLevel'.
+[2022.12.11-13.50.53:040][894]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.11-13.50.53:041][894]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.11-13.50.53:041][894]LogPlayLevel: PIE: World Init took: (0.000802s)
+[2022.12.11-13.50.53:041][894]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.11-13.50.53:041][894]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.11-16.50.53
+[2022.12.11-13.50.53:042][894]LogWorld: Bringing up level for play took: 0.000305
+[2022.12.11-13.50.53:042][894]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.11-13.50.53:044][894]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 2 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.50.53:044][894]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.50.53:044][894]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 2 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.11-13.50.53:044][894]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.11-13.50.53:044][894]LogLoad: Took 0.150422 seconds to LoadMap(/Game/Maps/UEDPIE_0_StartLevel)
+[2022.12.11-13.50.55:257][146]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.11-13.50.55:257][146]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.11-13.50.55:258][146]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.11-13.50.55:265][146]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-13.50.55:265][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.50.55:268][146]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.11-13.50.55:278][146]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-13.50.55:372][146]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.11-13.50.55:373][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2022.12.11-13.50.55:374][146]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=46
+[2022.12.11-13.50.55:380][146]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2022.12.11-13.50.55:406][147]LogPlayLevel: Display: Destroying online subsystem :Context_87
+[2022.12.11-13.51.12:001][  6]BlueprintLog: New page: Compile W_EnterSaveName
+[2022.12.11-13.51.12:156][  6]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.11-13.52.22:403][341]LogUObjectHash: Compacting FUObjectHashTables data took   1.87ms
+[2022.12.11-13.52.23:465][341]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-13.52.23:568][341]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.11-13.52.23:631][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_EnterSaveName" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_EnterSaveName.uasset" SILENT=true
+[2022.12.11-13.52.23:650][341]LogSavePackage: Moving output files for package: /Game/Widgets/W_EnterSaveName
+[2022.12.11-13.52.23:650][341]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_EnterSaveNameDD5FCBB6499E8EE18CAF6AB29624F6D6.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_EnterSaveName.uasset'
+[2022.12.11-13.52.23:655][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_NewGod" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset" SILENT=true
+[2022.12.11-13.52.23:675][341]LogSavePackage: Moving output files for package: /Game/Widgets/W_NewGod
+[2022.12.11-13.52.23:675][341]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_NewGod35F4C5654C7C4B3D1625F6922FB8FC4C.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset'
+[2022.12.11-13.52.23:680][341]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_SaveSlot" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_SaveSlot.uasset" SILENT=true
+[2022.12.11-13.52.23:697][341]LogSavePackage: Moving output files for package: /Game/Widgets/W_SaveSlot
+[2022.12.11-13.52.23:698][341]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_SaveSlot264AB51341EEA58CCA3B31B2614CA906.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_SaveSlot.uasset'
+[2022.12.11-13.52.23:706][341]LogFileHelpers: InternalPromptForCheckoutAndSave took 138 ms (total: 3.54 sec)
+[2022.12.11-13.52.23:713][341]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.11-13.52.23:713][341]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_NewGod.W_NewGod
+[2022.12.11-13.52.23:714][341]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_SaveSlot.W_SaveSlot
+[2022.12.11-13.52.23:714][341]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_EnterSaveName.W_EnterSaveName
+[2022.12.11-13.53.14:880][467]LogDerivedDataCache: C:/Users/polya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:02.188 and deleted 4 files with total size 0 MiB. Scanned 1791 files in 1770 folders with total size 160 MiB.
+[2022.12.11-14.20.22:539][327]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2022.12.11-14.20.22:542][327]LogStall: Shutdown...
+[2022.12.11-14.20.22:565][327]LogStall: Shutdown complete.
+[2022.12.11-14.20.22:715][327]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.22:716][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.22:727][327]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.22:727][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.23:853][327]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.23:865][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.25:915][327]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.25:915][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.25:927][327]LogWorld: UWorld::CleanupWorld for World_40, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.25:927][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.26:060][327]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.11-14.20.26:060][327]LogWorld: UWorld::CleanupWorld for World_36, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.26:060][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.26:767][327]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.26:768][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.26:780][327]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.26:785][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.27:369][327]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.27:369][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.28:547][327]LogWorld: UWorld::CleanupWorld for World_49, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.28:547][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.28:559][327]LogWorld: UWorld::CleanupWorld for World_48, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.28:559][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.28:651][327]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.28:651][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.28:772][327]LogWorld: UWorld::CleanupWorld for World_35, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.28:772][327]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.29:063][327]LogSlate: Window 'WhoIsTheGod - Unreal Editor' being destroyed
+[2022.12.11-14.20.30:674][328]Cmd: QUIT_EDITOR
+[2022.12.11-14.20.30:674][328]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.11-14.20.30:795][328]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.11-14.20.30:806][328]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.11-14.20.30:807][328]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.11-14.20.30:833][328]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.30:897][328]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.11-14.20.31:168][328]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.12.11-14.20.31:280][328]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.11-14.20.32:047][328]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.11-14.20.32:047][328]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.11-14.20.32:047][328]LogAudio: Display: Audio Device unregistered from world 'StartLevel'.
+[2022.12.11-14.20.32:073][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.11-14.20.32:079][328]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.11-14.20.32:135][328]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.11-14.20.32:205][328]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.11-14.20.32:222][328]LogExit: Preparing to exit.
+[2022.12.11-14.20.32:969][328]LogUObjectHash: Compacting FUObjectHashTables data took   4.88ms
+[2022.12.11-14.20.33:027][328]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:027][328]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:032][328]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.33:033][328]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.11-14.20.34:625][328]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.34:627][328]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.11-14.20.34:946][328]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2022.12.11-14.20.36:676][328]LogExit: Editor shut down
+[2022.12.11-14.20.36:680][328]LogExit: Transaction tracking system shut down
+[2022.12.11-14.20.42:703][328]LogExit: Object subsystem successfully closed.
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: ================================================
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: Total job queries 39, among them cache hits 14 (35.90%)
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: Tracking 25 distinct input hashes that result in 20 distinct outputs (80.00%)
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: RAM used: 0.15 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.02%
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.12.11-14.20.42:720][328]LogShaderCompilers: Display: ================================================
+[2022.12.11-14.20.42:778][328]LogShaderCompilers: Display: Shaders left to compile 0
+[2022.12.11-14.20.42:994][328]LogVirtualization: UE::Virtualization was shutdown
