@@ -7530,3 +7530,74 @@ UnknownFunction []
 [2022.12.11-13.25.27:357][325]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=37
 [2022.12.11-13.25.27:365][325]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
 [2022.12.11-13.25.27:394][326]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2022.12.11-13.26.18:847][417]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2022.12.11-13.26.18:849][417]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/StartLevel' took 0.092
+[2022.12.11-13.26.18:849][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/PC_Main] ([2] browsable assets)...
+[2022.12.11-13.26.18:849][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/PC_Main]
+[2022.12.11-13.26.18:849][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_Main" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/PC_Main_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.26.18:876][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/PC_Main_Auto5
+[2022.12.11-13.26.18:876][417]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/PC_Main_Auto5C847170847AF12B636E053887655FA76.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/PC_Main_Auto5.uasset'
+[2022.12.11-13.26.18:888][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/MainGameMode] ([2] browsable assets)...
+[2022.12.11-13.26.18:888][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/MainGameMode]
+[2022.12.11-13.26.18:888][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/MainGameMode_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.26.18:996][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/MainGameMode_Auto5
+[2022.12.11-13.26.18:997][417]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainGameMode_Auto5A09B68E24D19D9D1C4ED4C83014C61B2.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/MainGameMode_Auto5.uasset'
+[2022.12.11-13.26.18:999][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Saves/BP_Saves] ([2] browsable assets)...
+[2022.12.11-13.26.18:999][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Saves/BP_Saves]
+[2022.12.11-13.26.18:999][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Saves/BP_Saves" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Saves/BP_Saves_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.26.19:024][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Saves/BP_Saves_Auto5
+[2022.12.11-13.26.19:025][417]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/BP_Saves_Auto5EBCEAD234F7E1037C2EE84918CCEE436.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Saves/BP_Saves_Auto5.uasset'
+[2022.12.11-13.26.19:027][417]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Widgets/MainUI] ([2] browsable assets)...
+[2022.12.11-13.26.19:027][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/MainUI]
+[2022.12.11-13.26.19:027][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/MainUI_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.26.19:121][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/MainUI_Auto5
+[2022.12.11-13.26.19:122][417]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUI_Auto5E2F4F8434EEB62186EA2AD9FDF234CB0.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/MainUI_Auto5.uasset'
+[2022.12.11-13.26.19:124][417]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Widgets/W_NewGod] ([2] browsable assets)...
+[2022.12.11-13.26.19:133][417]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/Widgets/W_NewGod.W_NewGod]
+[2022.12.11-13.26.19:133][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Widgets/W_NewGod]
+[2022.12.11-13.26.19:133][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_NewGod" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/W_NewGod_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.26.19:151][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Widgets/W_NewGod_Auto5
+[2022.12.11-13.26.19:152][417]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_NewGod_Auto5118F36DA47F2C9BB81025EAEE60B4341.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Widgets/W_NewGod_Auto5.uasset'
+[2022.12.11-13.26.19:153][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/AI/Decorators/D_IsPlayerNewGod] ([2] browsable assets)...
+[2022.12.11-13.26.19:154][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/AI/Decorators/D_IsPlayerNewGod]
+[2022.12.11-13.26.19:164][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/AI/Decorators/D_IsPlayerNewGod_Auto5
+[2022.12.11-13.26.19:164][417]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/D_IsPlayerNewGod_Auto5654DE31441298FEC0C49508DA959FC0F.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/AI/Decorators/D_IsPlayerNewGod_Auto5.uasset'
+[2022.12.11-13.26.19:165][417]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Actors/AC_Gods] ([2] browsable assets)...
+[2022.12.11-13.26.19:165][417]OBJ SavePackage: Finished generating thumbnails for package [/Game/Actors/AC_Gods]
+[2022.12.11-13.26.19:165][417]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/AC_Gods" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Actors/AC_Gods_Auto5.uasset" SILENT=false AUTOSAVING=true
+[2022.12.11-13.26.19:171][417]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Actors/AC_Gods_Auto5
+[2022.12.11-13.26.19:171][417]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/AC_Gods_Auto51B6C0CCA4F7E160DFA532D870AD06A98.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/Autosaves/Game/Actors/AC_Gods_Auto5.uasset'
+[2022.12.11-13.26.19:172][417]LogFileHelpers: Auto-saving content packages took 0.323
+[2022.12.11-13.26.39:586][ 21]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.12.11-13.26.41:060][ 21]LogSlate: Window 'Save Content' being destroyed
+[2022.12.11-13.26.41:388][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.11-13.26.41:440][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Actors/AC_Gods" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Actors/AC_Gods.uasset" SILENT=true
+[2022.12.11-13.26.41:447][ 21]LogSavePackage: Moving output files for package: /Game/Actors/AC_Gods
+[2022.12.11-13.26.41:448][ 21]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/AC_GodsCCB75C7141B7247D44907AB86025F0B8.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Actors/AC_Gods.uasset'
+[2022.12.11-13.26.41:450][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Saves/BP_Saves" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Saves/BP_Saves.uasset" SILENT=true
+[2022.12.11-13.26.41:473][ 21]LogSavePackage: Moving output files for package: /Game/Saves/BP_Saves
+[2022.12.11-13.26.41:474][ 21]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/BP_SavesC1D9505B4C37138C100CC483449F37BE.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Saves/BP_Saves.uasset'
+[2022.12.11-13.26.41:476][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/Decorators/D_IsPlayerNewGod" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/Decorators/D_IsPlayerNewGod.uasset" SILENT=true
+[2022.12.11-13.26.41:486][ 21]LogSavePackage: Moving output files for package: /Game/AI/Decorators/D_IsPlayerNewGod
+[2022.12.11-13.26.41:487][ 21]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/D_IsPlayerNewGod0E2997C647B2E193F70939835C754622.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/AI/Decorators/D_IsPlayerNewGod.uasset'
+[2022.12.11-13.26.41:489][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MainGameMode" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset" SILENT=true
+[2022.12.11-13.26.41:595][ 21]LogSavePackage: Moving output files for package: /Game/MainGameMode
+[2022.12.11-13.26.41:596][ 21]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainGameMode608585464D313E3253284798CEDAC5DF.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/MainGameMode.uasset'
+[2022.12.11-13.26.41:598][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset" SILENT=true
+[2022.12.11-13.26.41:694][ 21]LogSavePackage: Moving output files for package: /Game/Widgets/MainUI
+[2022.12.11-13.26.41:695][ 21]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainUI8874229845A9279D45115E9792AAAF48.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainUI.uasset'
+[2022.12.11-13.26.41:697][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/PC_Main" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/PC_Main.uasset" SILENT=true
+[2022.12.11-13.26.41:721][ 21]LogSavePackage: Moving output files for package: /Game/PC_Main
+[2022.12.11-13.26.41:722][ 21]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/PC_MainA2F1B12D4B063B340D5602A73EF4B4D0.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/PC_Main.uasset'
+[2022.12.11-13.26.41:724][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/W_NewGod" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset" SILENT=true
+[2022.12.11-13.26.41:741][ 21]LogSavePackage: Moving output files for package: /Game/Widgets/W_NewGod
+[2022.12.11-13.26.41:742][ 21]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/W_NewGodE411BA9846F3053ADF57DAB1B28724A6.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/W_NewGod.uasset'
+[2022.12.11-13.26.41:753][ 21]LogFileHelpers: InternalPromptForCheckoutAndSave took 364 ms (total: 2.22 sec)
+[2022.12.11-13.26.41:765][ 21]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.11-13.26.41:765][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/PC_Main.PC_Main
+[2022.12.11-13.26.41:765][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MainGameMode.MainGameMode
+[2022.12.11-13.26.41:765][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Saves/BP_Saves.BP_Saves
+[2022.12.11-13.26.41:765][ 21]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/MainUI.MainUI
+[2022.12.11-13.26.41:768][ 21]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/W_NewGod.W_NewGod
+[2022.12.11-13.26.41:769][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/Decorators/D_IsPlayerNewGod.D_IsPlayerNewGod
+[2022.12.11-13.26.41:769][ 21]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/AC_Gods.AC_Gods
