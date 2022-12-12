@@ -8286,3 +8286,260 @@ Make sure 'MainUI_C' has been compiled for  Took Damage VF
 [2022.12.12-16.51.20:350][857]AssetCheck: New page: Asset Save: multiple assets
 [2022.12.12-16.51.20:350][857]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/Dice.Dice
 [2022.12.12-16.51.20:350][857]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/MainLevel.MainLevel
+[2022.12.12-17.27.32:802][566]LogDerivedDataCache: C:/Users/polya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.093 and deleted 0 files with total size 0 MiB. Scanned 2174 files in 2149 folders with total size 164 MiB.
+[2022.12.12-18.09.06:093][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2022.12.12-18.09.07:233][864]LogSlate: Window 'Delete Assets' being destroyed
+[2022.12.12-18.09.07:397][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.12-18.09.07:457][864]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2022.12.12-18.09.07:517][864]LogUObjectHash: Compacting FUObjectHashTables data took   0.87ms
+[2022.12.12-18.09.07:870][864]SourceControl: Error: Updated 0 paths from the index
+[2022.12.12-18.09.08:029][864]SourceControl: rm 'Content/Assets/VFX/DamageUI.uasset'
+[2022.12.12-18.09.08:029][864]SourceControl: rm 'Content/Assets/VFX/Damaged.uasset'
+[2022.12.12-18.09.09:590][ 20]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.09.09:590][ 20]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.09.15:803][423]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-18.09.15:814][423]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-18.09.15:814][423]PIE: New page: PIE session: MainLevel (13 дек. 2022 г., 00:09:15)
+[2022.12.12-18.09.15:814][423]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.12-18.09.15:820][423]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006129s)
+[2022.12.12-18.09.15:820][423]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainLevel.MainLevel to /Game/Maps/UEDPIE_0_MainLevel.MainLevel (0.006162s)
+[2022.12.12-18.09.15:821][423]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.12-18.09.15:821][423]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.12-18.09.15:821][423]LogPlayLevel: PIE: World Init took: (0.000978s)
+[2022.12.12-18.09.15:889][423]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.12.12-18.09.15:916][423]LogAudio: Display: Creating Audio Device:                 Id: 67, Scope: Unique, Realtime: True
+[2022.12.12-18.09.15:916][423]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-18.09.15:916][423]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-18.09.15:916][423]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-18.09.15:916][423]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-18.09.15:916][423]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.12-18.09.15:916][423]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.12-18.09.15:916][423]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.12-18.09.15:916][423]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-18.09.15:917][423]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.12-18.09.15:917][423]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.12-18.09.15:917][423]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.12-18.09.15:919][423]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.12-18.09.15:946][423]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.12-18.09.15:946][423]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-18.09.15:946][423]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-18.09.15:946][423]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-18.09.15:947][423]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=67
+[2022.12.12-18.09.15:947][423]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=67
+[2022.12.12-18.09.15:949][423]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=67
+[2022.12.12-18.09.15:949][423]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=67
+[2022.12.12-18.09.15:949][423]LogInit: FAudioDevice initialized.
+[2022.12.12-18.09.15:949][423]LogAudio: Display: Audio Device (ID: 67) registered with world 'MainLevel'.
+[2022.12.12-18.09.16:021][423]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-18.09.16:021][423]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.12-18.09.16:022][423]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.12-21.09.16
+[2022.12.12-18.09.16:023][423]LogWorld: Bringing up level for play took: 0.001721
+[2022.12.12-18.09.16:026][423]LogOnline: OSS: Created online subsystem instance for: :Context_96
+[2022.12.12-18.09.16:028][423]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentSaveData". Node:  Does Save Game Exist Graph:  EventGraph Function:  Execute Ubergraph Main Game Mode Blueprint:  MainGameMode
+[2022.12.12-18.09.16:033][423]PIE: Server logged in
+[2022.12.12-18.09.16:038][423]PIE: Play in editor total start time 0,224 seconds.
+[2022.12.12-18.09.16:051][423]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.12-18.09.17:111][431]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property CurrentSaveData". Node:  SetText (Text) Graph:  EventGraph Function:  Execute Ubergraph Main UI Blueprint:  MainUI
+[2022.12.12-18.09.17:112][431]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.12-18.09.17:112][431]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.12-18.09.17:113][431]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CapturePermanently
+[2022.12.12-18.09.17:769][472]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-18.09.17:769][472]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.12-18.09.17:770][472]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.12-18.09.17:778][472]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.09.17:779][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.09.17:782][472]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-18.09.17:789][472]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.09.17:837][472]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-18.09.17:838][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2022.12.12-18.09.17:839][472]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=67
+[2022.12.12-18.09.17:847][472]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2022.12.12-18.09.17:945][473]LogPlayLevel: Display: Destroying online subsystem :Context_96
+[2022.12.12-18.09.26:180][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.60ms
+[2022.12.12-18.09.26:235][123]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/StartLevel.StartLevel
+[2022.12.12-18.09.26:235][123]Cmd: MAP LOAD FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Maps/StartLevel.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=4
+[2022.12.12-18.09.26:235][123]LightingResults: New page: Lighting Build
+[2022.12.12-18.09.26:235][123]LoadErrors: New page: Loading map: StartLevel.umap
+[2022.12.12-18.09.26:240][123]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.09.26:240][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.09.26:240][123]MapCheck: New page: Map Check
+[2022.12.12-18.09.26:240][123]LightingResults: New page: Lighting Build
+[2022.12.12-18.09.26:300][123]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-18.09.26:313][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.12.12-18.09.26:317][123]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.09.26:317][123]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.09.26:367][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.12-18.09.26:419][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.12.12-18.09.26:433][123]LogAudio: Display: Audio Device (ID: 1) registered with world 'StartLevel'.
+[2022.12.12-18.09.26:434][123]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.12-18.09.26:434][123]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.12-18.09.26:601][123]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.12.12-18.09.26:657][123]LogUObjectHash: Compacting FUObjectHashTables data took   1.45ms
+[2022.12.12-18.09.26:866][123]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.12.12-18.09.26:868][123]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 1,868ms to complete.
+[2022.12.12-18.09.26:868][123]LogFileHelpers: Loading map 'StartLevel' took 0.633
+[2022.12.12-18.09.27:764][196]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.12-18.09.27:773][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.12-18.09.27:774][196]PIE: New page: PIE session: StartLevel (13 дек. 2022 г., 00:09:27)
+[2022.12.12-18.09.27:774][196]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.12-18.09.27:775][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001200s)
+[2022.12.12-18.09.27:775][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001230s)
+[2022.12.12-18.09.27:775][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.12-18.09.27:775][196]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.12-18.09.27:776][196]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2022.12.12-18.09.27:825][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.12.12-18.09.27:828][196]LogAudio: Display: Creating Audio Device:                 Id: 68, Scope: Unique, Realtime: True
+[2022.12.12-18.09.27:828][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.12-18.09.27:828][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.12-18.09.27:828][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.12-18.09.27:828][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.12-18.09.27:828][196]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.12-18.09.27:828][196]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.12-18.09.27:828][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.12-18.09.27:828][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.12-18.09.27:829][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.12-18.09.27:829][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.12-18.09.27:829][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.12-18.09.27:831][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.12-18.09.27:853][196]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.12-18.09.27:853][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.12-18.09.27:853][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.12-18.09.27:853][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.12-18.09.27:854][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=68
+[2022.12.12-18.09.27:854][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=68
+[2022.12.12-18.09.27:856][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=68
+[2022.12.12-18.09.27:856][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=68
+[2022.12.12-18.09.27:856][196]LogInit: FAudioDevice initialized.
+[2022.12.12-18.09.27:856][196]LogAudio: Display: Audio Device (ID: 68) registered with world 'StartLevel'.
+[2022.12.12-18.09.27:956][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-18.09.27:956][196]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.12-18.09.27:956][196]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.12-21.09.27
+[2022.12.12-18.09.27:957][196]LogWorld: Bringing up level for play took: 0.000557
+[2022.12.12-18.09.27:960][196]LogOnline: OSS: Created online subsystem instance for: :Context_97
+[2022.12.12-18.09.27:960][196]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.12-18.09.27:961][196]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.12-18.09.27:961][196]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.12-18.09.27:962][196]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.12-18.09.27:962][196]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.12-18.09.27:963][196]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.12-18.09.27:963][196]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.12-18.09.27:963][196]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.12-18.09.27:963][196]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.12-18.09.27:963][196]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.12-18.09.27:963][196]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.12-18.09.27:976][196]PIE: Server logged in
+[2022.12.12-18.09.27:980][196]PIE: Play in editor total start time 0,207 seconds.
+[2022.12.12-18.09.27:996][196]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.12-18.09.31:945][455]PIE: UWidget::RemoveFromParent() called on '/Engine/Transient.UnrealEdEngine_0:SaveGameInstance_C_66.MainWindowUI_C_0.WidgetTree_0.W_SaveSlot_672.WidgetTree_0.W_EnterSaveName_C_0' which has no UMG parent (if it was added directly to a native Slate widget via TakeWidget() then it must be removed explicitly rather than via RemoveFromParent())
+[2022.12.12-18.09.32:642][503]LogNet: Browse: /Game/Maps/MainLevel
+[2022.12.12-18.09.32:642][503]LogLoad: LoadMap: /Game/Maps/MainLevel
+[2022.12.12-18.09.32:642][503]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.12-18.09.32:642][503]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.09.32:642][503]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.09.32:731][503]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.12-18.09.32:733][503]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.12.12-18.09.32:761][503]LogAudio: Display: Audio Device (ID: 68) registered with world 'MainLevel'.
+[2022.12.12-18.09.32:761][503]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.12-18.09.32:762][503]LogAIModule: Creating AISystem for world MainLevel
+[2022.12.12-18.09.32:762][503]LogPlayLevel: PIE: World Init took: (0.000743s)
+[2022.12.12-18.09.32:762][503]LogLoad: Game class is 'MainGameMode_C'
+[2022.12.12-18.09.32:768][503]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainLevel.MainLevel up for play (max tick rate 0) at 2022.12.12-21.09.32
+[2022.12.12-18.09.32:768][503]LogWorld: Bringing up level for play took: 0.005985
+[2022.12.12-18.09.32:770][503]LogBlueprintUserMessages: [MainGameMode_C_0] Hello
+[2022.12.12-18.09.32:770][503]LogLoad: Took 0.128025 seconds to LoadMap(/Game/Maps/MainLevel)
+[2022.12.12-18.09.33:230][524]LogScript: Warning: Script Msg: Divide by zero: Divide_DoubleDouble
+[2022.12.12-18.09.33:231][524]LogScript: Warning: Last function called:
+	/Game/Widgets/MainUI.MainUI_C.UpdatePlayerPB
+
+[2022.12.12-18.09.33:232][524]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.12-18.09.33:232][524]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.12-18.09.41:350][ 65]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.12-18.09.41:351][ 65]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.12-18.09.43:120][183]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.12-18.09.43:120][183]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.12-18.09.59:527][283]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.12-18.09.59:527][283]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.12-18.10.02:471][478]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.12-18.10.02:471][478]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.12-18.10.10:332][  6]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.12-18.10.10:332][  6]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> NoCapture
+[2022.12.12-18.10.12:954][182]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2022.12.12-18.10.12:955][182]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CapturePermanently
+[2022.12.12-18.10.27:519][158]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.12-18.10.27:519][158]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainLevel
+[2022.12.12-18.10.27:520][158]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.12-18.10.27:528][158]LogWorld: UWorld::CleanupWorld for MainLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.27:529][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.10.27:531][158]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.12-18.10.27:538][158]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.10.27:586][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2022.12.12-18.10.27:587][158]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=68
+[2022.12.12-18.10.27:595][158]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2022.12.12-18.10.27:622][159]LogPlayLevel: Display: Destroying online subsystem :Context_97
+[2022.12.12-18.10.33:734][724]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2022.12.12-18.10.33:737][724]LogStall: Shutdown...
+[2022.12.12-18.10.33:761][724]LogStall: Shutdown complete.
+[2022.12.12-18.10.33:957][724]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.33:957][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.10.34:896][724]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.34:896][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.10.34:909][724]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.34:909][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.10.35:530][724]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2022.12.12-18.10.35:530][724]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.35:530][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.10.36:388][724]LogSlate: Window 'WhoIsTheGod - Unreal Editor' being destroyed
+[2022.12.12-18.10.36:949][725]Cmd: QUIT_EDITOR
+[2022.12.12-18.10.36:949][725]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2022.12.12-18.10.37:157][725]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2022.12.12-18.10.37:169][725]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2022.12.12-18.10.37:178][725]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2022.12.12-18.10.37:273][725]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.37:273][725]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.12-18.10.37:520][725]LogStylusInput: Shutting down StylusInput subsystem.
+[2022.12.12-18.10.37:599][725]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2022.12.12-18.10.39:114][725]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2022.12.12-18.10.39:114][725]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2022.12.12-18.10.39:114][725]LogAudio: Display: Audio Device unregistered from world 'StartLevel'.
+[2022.12.12-18.10.39:128][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.12-18.10.39:130][725]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2022.12.12-18.10.39:152][725]LogAudio: Display: Audio Device Manager Shutdown
+[2022.12.12-18.10.39:231][725]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2022.12.12-18.10.39:261][725]LogExit: Preparing to exit.
+[2022.12.12-18.10.39:884][725]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2022.12.12-18.10.39:986][725]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:987][725]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:991][725]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:993][725]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:993][725]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:993][725]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:993][725]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:993][725]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:994][725]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.39:995][725]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2022.12.12-18.10.42:233][725]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.42:236][725]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.42:239][725]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.42:241][725]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2022.12.12-18.10.42:768][725]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2022.12.12-18.10.43:304][725]LogExit: Editor shut down
+[2022.12.12-18.10.43:343][725]LogExit: Transaction tracking system shut down
