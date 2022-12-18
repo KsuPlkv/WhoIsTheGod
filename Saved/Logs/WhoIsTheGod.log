@@ -2190,3 +2190,118 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2022.12.18-12.14.56:168][281]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Actors/AC_Gods.AC_Gods
 [2022.12.18-12.14.56:168][281]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/MainGameMode.MainGameMode
 [2022.12.18-12.14.56:168][281]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/UI/StateW_fail.StateW_fail
+[2022.12.18-12.23.01:693][987]LogInterchangeEngine: [Pending] Importing
+[2022.12.18-12.23.01:693][987]LogInterchangeEngine: [Pending] Importing -  (2)
+[2022.12.18-12.23.01:695][987]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2022.12.18-12.23.01:695][987]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2022.12.18-12.23.01:704][988]LogTexture: Display: Building textures: /Game/Assets/UI/ExitButton.ExitButton (BGRA8, 418x121 x1x1x1) (Required Memory Estimate: 1.541698 MB), EncodeSpeed: Fast
+[2022.12.18-12.23.01:708][988]LogTexture: Display: Building textures: /Game/Assets/UI/PlayButton.PlayButton (BGRA8, 418x170 x1x1x1) (Required Memory Estimate: 2.140709 MB), EncodeSpeed: Fast
+[2022.12.18-12.23.01:727][988]LogInterchangeEngine: [Pending] Importing -  (2)
+[2022.12.18-12.23.02:025][988]LogInterchangeEngine: [Pending] Importing -  (1)
+[2022.12.18-12.23.02:039][988]LogInterchangeEngine: [Success] Import Done
+[2022.12.18-12.23.02:095][989]LogInterchangeEngine: [Success] Import Done
+[2022.12.18-12.23.09:179][597]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/Widgets/MainWindowUI.MainWindowUI
+[2022.12.18-12.23.09:179][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.18-12.23.09:193][597]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.18-12.23.09:738][597]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.18-12.23.09:738][597]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2022.12.18-12.23.31:759][713]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.18-12.23.35:860][133]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.18-12.23.39:063][461]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.18-12.23.44:408][ 21]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.18-12.23.51:679][482]LogDerivedDataCache: C:/Users/polya/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:06.265 and deleted 0 files with total size 0 MiB. Scanned 3754 files in 3719 folders with total size 165 MiB.
+[2022.12.18-12.26.06:359][807]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.18-12.26.09:698][134]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.18-12.26.14:547][613]LogSlate: Window 'Color Picker' being destroyed
+[2022.12.18-12.27.51:790][740]BlueprintLog: New page: Compile MainWindowUI
+[2022.12.18-12.27.51:875][740]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
+[2022.12.18-12.27.52:629][804]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2022.12.18-12.27.52:639][804]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.12.18-12.27.52:640][804]PIE: New page: PIE session: StartLevel (18 дек. 2022 г., 18:27:52)
+[2022.12.18-12.27.52:640][804]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.18-12.27.52:641][804]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001318s)
+[2022.12.18-12.27.52:641][804]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/StartLevel.StartLevel to /Game/Maps/UEDPIE_0_StartLevel.StartLevel (0.001347s)
+[2022.12.18-12.27.52:641][804]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.12.18-12.27.52:642][804]LogAIModule: Creating AISystem for world StartLevel
+[2022.12.18-12.27.52:642][804]LogPlayLevel: PIE: World Init took: (0.000794s)
+[2022.12.18-12.27.52:695][804]LogUObjectHash: Compacting FUObjectHashTables data took   1.28ms
+[2022.12.18-12.27.52:697][804]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2022.12.18-12.27.52:697][804]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.12.18-12.27.52:697][804]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.12.18-12.27.52:697][804]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.12.18-12.27.52:697][804]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.12.18-12.27.52:697][804]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2022.12.18-12.27.52:697][804]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.12.18-12.27.52:697][804]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2022.12.18-12.27.52:697][804]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.12.18-12.27.52:697][804]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.12.18-12.27.52:698][804]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.12.18-12.27.52:698][804]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.12.18-12.27.52:699][804]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.12.18-12.27.52:722][804]LogAudioMixer: Display: Using Audio Hardware Device Динамики (High Definition Audio Device)
+[2022.12.18-12.27.52:722][804]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.12.18-12.27.52:722][804]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.12.18-12.27.52:722][804]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.12.18-12.27.52:724][804]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=11
+[2022.12.18-12.27.52:724][804]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=11
+[2022.12.18-12.27.52:725][804]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=11
+[2022.12.18-12.27.52:725][804]LogInit: FAudioDevice initialized.
+[2022.12.18-12.27.52:725][804]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=11
+[2022.12.18-12.27.52:725][804]LogAudio: Display: Audio Device (ID: 11) registered with world 'StartLevel'.
+[2022.12.18-12.27.52:785][804]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.18-12.27.52:785][804]LogLoad: Game class is 'GM_MainMenu_C'
+[2022.12.18-12.27.52:786][804]LogWorld: Bringing World /Game/Maps/UEDPIE_0_StartLevel.StartLevel up for play (max tick rate 0) at 2022.12.18-15.27.52
+[2022.12.18-12.27.52:786][804]LogWorld: Bringing up level for play took: 0.000480
+[2022.12.18-12.27.52:788][804]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2022.12.18-12.27.52:789][804]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2022.12.18-12.27.52:790][804]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2022.12.18-12.27.52:790][804]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2022.12.18-12.27.52:791][804]LogScript: Warning: Script Msg: Attempted to access index 1 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.18-12.27.52:791][804]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.18-12.27.52:791][804]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'SaveSlots' of length 1 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.18-12.27.52:791][804]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.18-12.27.52:791][804]LogScript: Warning: Script Msg: Attempted to access index 2 from array 'Stages' of length 2 in '/Game/Saves/GameSaveData.GameSaveData_C'!
+[2022.12.18-12.27.52:791][804]LogScript: Warning: Last function called:
+	/Game/Widgets/MainWindowUI.MainWindowUI_C.ExecuteUbergraph_MainWindowUI
+
+[2022.12.18-12.27.52:793][804]PIE: Server logged in
+[2022.12.18-12.27.52:795][804]PIE: Play in editor total start time 0,157 seconds.
+[2022.12.18-12.27.52:813][804]LogViewport: Scene viewport resized to 1914x1000, mode Windowed.
+[2022.12.18-12.27.55:987][ 66]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.12.18-12.27.55:987][ 66]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_StartLevel
+[2022.12.18-12.27.55:987][ 66]LogSlate: Window 'WhoIsTheGod Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2022.12.18-12.27.55:994][ 66]LogWorld: UWorld::CleanupWorld for StartLevel, bSessionEnded=true, bCleanupResources=true
+[2022.12.18-12.27.55:995][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-12.27.55:998][ 66]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.12.18-12.27.56:004][ 66]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.12.18-12.27.56:058][ 66]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.12.18-12.27.56:058][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.18-12.27.56:060][ 66]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=11
+[2022.12.18-12.27.56:065][ 66]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2022.12.18-12.27.56:088][ 67]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2022.12.18-12.28.42:598][498]BlueprintLog: New page: Compile MainWindowUI
+[2022.12.18-12.28.42:666][498]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.12.18-12.28.45:357][780]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.18-12.28.45:424][780]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Widgets/MainWindowUI" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainWindowUI.uasset" SILENT=true
+[2022.12.18-12.28.45:451][780]LogSavePackage: Moving output files for package: /Game/Widgets/MainWindowUI
+[2022.12.18-12.28.45:452][780]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/MainWindowUIB9F083954CF83EA56096138B81C911D0.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Widgets/MainWindowUI.uasset'
+[2022.12.18-12.28.45:460][780]LogFileHelpers: InternalPromptForCheckoutAndSave took 102 ms (total: 1.34 sec)
+[2022.12.18-12.28.45:467][780]AssetCheck: New page: Asset Save: MainWindowUI
+[2022.12.18-12.28.45:467][780]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/Widgets/MainWindowUI.MainWindowUI
+[2022.12.18-12.28.53:043][ 61]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2022.12.18-12.28.53:907][ 61]LogSlate: Window 'Save Content' being destroyed
+[2022.12.18-12.28.54:017][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2022.12.18-12.28.54:070][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/ExitButton" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Assets/UI/ExitButton.uasset" SILENT=true
+[2022.12.18-12.28.54:078][ 61]LogSavePackage: Moving output files for package: /Game/Assets/UI/ExitButton
+[2022.12.18-12.28.54:078][ 61]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/ExitButton0E633AE948C6D267D85EB68CA5542C73.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Assets/UI/ExitButton.uasset'
+[2022.12.18-12.28.54:081][ 61]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Assets/UI/PlayButton" FILE="../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Assets/UI/PlayButton.uasset" SILENT=true
+[2022.12.18-12.28.54:092][ 61]LogSavePackage: Moving output files for package: /Game/Assets/UI/PlayButton
+[2022.12.18-12.28.54:092][ 61]LogSavePackage: Moving '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Saved/PlayButton370B9C464B19F109ED914B8B91AD05DE.tmp' to '../../../../../GAME_PROJECTS_ue/WhoIsTheGod/Content/Assets/UI/PlayButton.uasset'
+[2022.12.18-12.28.54:277][ 61]LogFileHelpers: InternalPromptForCheckoutAndSave took 260 ms (total: 1.60 sec)
+[2022.12.18-12.28.54:283][ 61]AssetCheck: New page: Asset Save: multiple assets
+[2022.12.18-12.28.54:283][ 61]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/UI/ExitButton.ExitButton
+[2022.12.18-12.28.54:283][ 61]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets/UI/PlayButton.PlayButton
